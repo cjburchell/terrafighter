@@ -52,3 +52,7 @@ DeMapEdit/Release/
 DeMapEdit/res/.svn/
 
 .vs/master_redpoint/v14/.suo
+
+zip/Debug/
+
+CommonDev/CommonDev.vcxproj.user
