@@ -1,0 +1,27 @@
+// NPC.cpp: implementation of the CNPC class.
+//
+//////////////////////////////////////////////////////////////////////
+#include "stdafx.h"
+#include "NPC.h"
+
+
+//////////////////////////////////////////////////////////////////////
+// Construction/Destruction
+//////////////////////////////////////////////////////////////////////
+
+CNPC::CNPC() :CMonster()
+{
+	m_move_state = STOPPED;
+}
+
+CNPC::~CNPC()
+{
+
+}
+
+CString CNPC::ConvertString(CString str)
+{
+	str.Replace('#','\n');
+	str.Replace('-',' ');
+	return str;
+}

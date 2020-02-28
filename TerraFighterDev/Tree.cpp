@@ -1,0 +1,25 @@
+// Tree.cpp: implementation of the CTree class.
+//
+//////////////////////////////////////////////////////////////////////
+
+#include "stdafx.h"
+#include "Tree.h"
+
+//////////////////////////////////////////////////////////////////////
+// Construction/Destruction
+//////////////////////////////////////////////////////////////////////
+
+#ifdef _DEBUG
+#define new DEBUG_NEW
+#endif
+
+
+CTree::CTree(FLOAT fWidth, FLOAT fHeight, const char* TextureFile) : CVegetation(fWidth, fHeight,TextureFile)
+{
+
+}
+
+CTree::~CTree()
+{
+
+}

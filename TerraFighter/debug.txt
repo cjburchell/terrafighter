@@ -1,0 +1,2507 @@
+App Start
+.\TerraFighter.cpp(15): Start Appd:\dev2\commondev\dsutil.cpp(469): Create Sound laserfire3.wav
+d:\dev2\commondev\dsutil.cpp(469): Create Sound laserfire3.wav
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+App Start
+.\TerraFighter.cpp(15): Start Appd:\dev2\commondev\dsutil.cpp(469): Create Sound laserfire3.wav
+d:\dev2\commondev\dsutil.cpp(469): Create Sound laserfire3.wav
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+App Start
+.\TerraFighter.cpp(15): Start Appd:\dev2\commondev\dsutil.cpp(469): Create Sound laserfire3.wav
+d:\dev2\commondev\dsutil.cpp(469): Create Sound laserfire3.wav
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+App Start
+.\TerraFighter.cpp(15): Start Appd:\dev2\commondev\dsutil.cpp(469): Create Sound laserfire3.wav
+d:\dev2\commondev\dsutil.cpp(469): Create Sound laserfire3.wav
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+App Start
+.\TerraFighter.cpp(15): Start Appd:\dev2\commondev\dsutil.cpp(469): Create Sound laserfire3.wav
+d:\dev2\commondev\dsutil.cpp(469): Create Sound laserfire3.wav
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+App Start
+.\TerraFighter.cpp(15): Start Appd:\dev2\commondev\dsutil.cpp(469): Create Sound laserfire3.wav
+d:\dev2\commondev\dsutil.cpp(469): Create Sound laserfire3.wav
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+App Start
+.\TerraFighter.cpp(15): Start Appd:\dev2\commondev\dsutil.cpp(469): Create Sound laserfire3.wav
+d:\dev2\commondev\dsutil.cpp(469): Create Sound laserfire3.wav
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+App Start
+.\TerraFighter.cpp(15): Start Appd:\dev2\commondev\dsutil.cpp(469): Create Sound laserfire3.wav
+d:\dev2\commondev\dsutil.cpp(469): Create Sound laserfire3.wav
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+App Start
+.\TerraFighter.cpp(15): Start Appd:\dev2\commondev\dsutil.cpp(469): Create Sound laserfire3.wav
+d:\dev2\commondev\dsutil.cpp(469): Create Sound laserfire3.wav
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+.\TerraFighterApp.cpp(1166): DEBUG: Start Deleting Old Objects
+.\TerraFighterApp.cpp(1225): SetupMap
+.\TerraFighterApp.cpp(1232): lake2.bmp.\TerraFighterApp.cpp(1237):  Create Map
+d:\dev2\commondev\dsutil.cpp(469): Create Sound hum.wav
+d:\dev2\commondev\dsutil.cpp(469): Create Sound hum.wav
+d:\dev2\commondev\dsutil.cpp(469): Create Sound hum.wav
+d:\dev2\commondev\dsutil.cpp(469): Create Sound hum.wav
+d:\dev2\commondev\dsutil.cpp(469): Create Sound hum.wav
+App Start
+.\TerraFighter.cpp(15): Start Appd:\dev2\commondev\dsutil.cpp(469): Create Sound laserfire3.wav
+d:\dev2\commondev\dsutil.cpp(469): Create Sound laserfire3.wav
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+.\TerraFighterApp.cpp(1166): DEBUG: Start Deleting Old Objects
+.\TerraFighterApp.cpp(1225): SetupMap
+.\TerraFighterApp.cpp(1232): lake2.bmp.\TerraFighterApp.cpp(1237):  Create Map
+d:\dev2\commondev\dsutil.cpp(469): Create Sound hum.wav
+d:\dev2\commondev\dsutil.cpp(469): Create Sound hum.wav
+d:\dev2\commondev\dsutil.cpp(469): Create Sound hum.wav
+d:\dev2\commondev\dsutil.cpp(469): Create Sound hum.wav
+d:\dev2\commondev\dsutil.cpp(469): Create Sound hum.wav
+App Start
+.\TerraFighter.cpp(15): Start Appd:\dev2\commondev\dsutil.cpp(469): Create Sound laserfire3.wav
+d:\dev2\commondev\dsutil.cpp(469): Create Sound laserfire3.wav
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+App Start
+.\TerraFighter.cpp(15): Start App
+d:\dev2\commondev\dsutil.cpp(469): Create Sound laserfire3.wav
+
+d:\dev2\commondev\dsutil.cpp(469): Create Sound laserfire3.wav
+
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+
+d:\dev2\commondev\d3dfile.cpp(32): sf-05.x
+d:\dev2\commondev\d3dfile.cpp(1155): pDXFile->CreateEnumObject( (VOID*)&mem, DXFILELOAD_FROMMEMORY, &pEnumObj )(D3DXFERR_RESOURCENOTFOUND hr=8876038a)
+d:\dev2\commondev\d3dfile.cpp(1186): Execption
+d:\dev2\commondev\d3dfile.cpp(50): result->create( device, filename, zip)(E_FAIL hr=80004005)
+d:\dev2\commondev\d3dfile.cpp(32): sf-06.x
+d:\dev2\commondev\d3dfile.cpp(1155): pDXFile->CreateEnumObject( (VOID*)&mem, DXFILELOAD_FROMMEMORY, &pEnumObj )(D3DXFERR_RESOURCENOTFOUND hr=8876038a)
+d:\dev2\commondev\d3dfile.cpp(1186): Execption
+d:\dev2\commondev\d3dfile.cpp(50): result->create( device, filename, zip)(E_FAIL hr=80004005)
+d:\dev2\commondev\d3dfile.cpp(32): sf-08.x
+d:\dev2\commondev\d3dfile.cpp(1155): pDXFile->CreateEnumObject( (VOID*)&mem, DXFILELOAD_FROMMEMORY, &pEnumObj )(D3DXFERR_RESOURCENOTFOUND hr=8876038a)
+d:\dev2\commondev\d3dfile.cpp(1186): Execption
+d:\dev2\commondev\d3dfile.cpp(50): result->create( device, filename, zip)(E_FAIL hr=80004005)
+d:\dev2\commondev\d3dfile.cpp(32): sf-11.x
+d:\dev2\commondev\d3dfile.cpp(1155): pDXFile->CreateEnumObject( (VOID*)&mem, DXFILELOAD_FROMMEMORY, &pEnumObj )(D3DXFERR_RESOURCENOTFOUND hr=8876038a)
+d:\dev2\commondev\d3dfile.cpp(1186): Execption
+d:\dev2\commondev\d3dfile.cpp(50): result->create( device, filename, zip)(E_FAIL hr=80004005)
+d:\dev2\commondev\d3dfile.cpp(32): sf-03.x
+d:\dev2\commondev\d3dfile.cpp(1155): pDXFile->CreateEnumObject( (VOID*)&mem, DXFILELOAD_FROMMEMORY, &pEnumObj )(D3DXFERR_RESOURCENOTFOUND hr=8876038a)
+d:\dev2\commondev\d3dfile.cpp(1186): Execption
+d:\dev2\commondev\d3dfile.cpp(50): result->create( device, filename, zip)(E_FAIL hr=80004005)
+d:\dev2\commondev\d3dfile.cpp(32): sf-01.x
+d:\dev2\commondev\d3dfile.cpp(1155): pDXFile->CreateEnumObject( (VOID*)&mem, DXFILELOAD_FROMMEMORY, &pEnumObj )(D3DXFERR_RESOURCENOTFOUND hr=8876038a)
+d:\dev2\commondev\d3dfile.cpp(1186): Execption
+d:\dev2\commondev\d3dfile.cpp(50): result->create( device, filename, zip)(E_FAIL hr=80004005)
+d:\dev2\commondev\d3dfile.cpp(32): al-05.x
+d:\dev2\commondev\d3dfile.cpp(1155): pDXFile->CreateEnumObject( (VOID*)&mem, DXFILELOAD_FROMMEMORY, &pEnumObj )(D3DXFERR_RESOURCENOTFOUND hr=8876038a)
+d:\dev2\commondev\d3dfile.cpp(1186): Execption
+d:\dev2\commondev\d3dfile.cpp(50): result->create( device, filename, zip)(E_FAIL hr=80004005)
+d:\dev2\commondev\d3dfile.cpp(32): al-10.x
+d:\dev2\commondev\d3dfile.cpp(1155): pDXFile->CreateEnumObject( (VOID*)&mem, DXFILELOAD_FROMMEMORY, &pEnumObj )(D3DXFERR_RESOURCENOTFOUND hr=8876038a)
+d:\dev2\commondev\d3dfile.cpp(1186): Execption
+d:\dev2\commondev\d3dfile.cpp(50): result->create( device, filename, zip)(E_FAIL hr=80004005)
+d:\dev2\commondev\d3dfile.cpp(32): al-12.x
+d:\dev2\commondev\d3dfile.cpp(1155): pDXFile->CreateEnumObject( (VOID*)&mem, DXFILELOAD_FROMMEMORY, &pEnumObj )(D3DXFERR_RESOURCENOTFOUND hr=8876038a)
+d:\dev2\commondev\d3dfile.cpp(1186): Execption
+d:\dev2\commondev\d3dfile.cpp(50): result->create( device, filename, zip)(E_FAIL hr=80004005)
+d:\dev2\commondev\d3dfile.cpp(32): al-13.x
+d:\dev2\commondev\d3dfile.cpp(1155): pDXFile->CreateEnumObject( (VOID*)&mem, DXFILELOAD_FROMMEMORY, &pEnumObj )(D3DXFERR_RESOURCENOTFOUND hr=8876038a)
+d:\dev2\commondev\d3dfile.cpp(1186): Execption
+d:\dev2\commondev\d3dfile.cpp(50): result->create( device, filename, zip)(E_FAIL hr=80004005)
+d:\dev2\commondev\d3dfile.cpp(32): al-14.x
+d:\dev2\commondev\d3dfile.cpp(1155): pDXFile->CreateEnumObject( (VOID*)&mem, DXFILELOAD_FROMMEMORY, &pEnumObj )(D3DXFERR_RESOURCENOTFOUND hr=8876038a)
+d:\dev2\commondev\d3dfile.cpp(1186): Execption
+d:\dev2\commondev\d3dfile.cpp(50): result->create( device, filename, zip)(E_FAIL hr=80004005)
+d:\dev2\commondev\d3dfile.cpp(32): al-17.x
+d:\dev2\commondev\d3dfile.cpp(1155): pDXFile->CreateEnumObject( (VOID*)&mem, DXFILELOAD_FROMMEMORY, &pEnumObj )(D3DXFERR_RESOURCENOTFOUND hr=8876038a)
+d:\dev2\commondev\d3dfile.cpp(1186): Execption
+d:\dev2\commondev\d3dfile.cpp(50): result->create( device, filename, zip)(E_FAIL hr=80004005)
+d:\dev2\commondev\d3dfile.cpp(32): Bld-01.x
+d:\dev2\commondev\d3dfile.cpp(1155): pDXFile->CreateEnumObject( (VOID*)&mem, DXFILELOAD_FROMMEMORY, &pEnumObj )(D3DXFERR_RESOURCENOTFOUND hr=8876038a)
+d:\dev2\commondev\d3dfile.cpp(1186): Execption
+d:\dev2\commondev\d3dfile.cpp(50): result->create( device, filename, zip)(E_FAIL hr=80004005)
+d:\dev2\commondev\d3dfile.cpp(32): Bld-07.x
+d:\dev2\commondev\d3dfile.cpp(1155): pDXFile->CreateEnumObject( (VOID*)&mem, DXFILELOAD_FROMMEMORY, &pEnumObj )(D3DXFERR_RESOURCENOTFOUND hr=8876038a)
+d:\dev2\commondev\d3dfile.cpp(1186): Execption
+d:\dev2\commondev\d3dfile.cpp(50): result->create( device, filename, zip)(E_FAIL hr=80004005)
+d:\dev2\commondev\d3dfile.cpp(32): Bld-08.x
+d:\dev2\commondev\d3dfile.cpp(1155): pDXFile->CreateEnumObject( (VOID*)&mem, DXFILELOAD_FROMMEMORY, &pEnumObj )(D3DXFERR_RESOURCENOTFOUND hr=8876038a)
+d:\dev2\commondev\d3dfile.cpp(1186): Execption
+d:\dev2\commondev\d3dfile.cpp(50): result->create( device, filename, zip)(E_FAIL hr=80004005)
+d:\dev2\commondev\d3dfile.cpp(32): Bld-10.x
+d:\dev2\commondev\d3dfile.cpp(1155): pDXFile->CreateEnumObject( (VOID*)&mem, DXFILELOAD_FROMMEMORY, &pEnumObj )(D3DXFERR_RESOURCENOTFOUND hr=8876038a)
+d:\dev2\commondev\d3dfile.cpp(1186): Execption
+d:\dev2\commondev\d3dfile.cpp(50): result->create( device, filename, zip)(E_FAIL hr=80004005)
+d:\dev2\commondev\d3dfile.cpp(32): Gunta.x
+d:\dev2\commondev\d3dfile.cpp(1155): pDXFile->CreateEnumObject( (VOID*)&mem, DXFILELOAD_FROMMEMORY, &pEnumObj )(D3DXFERR_RESOURCENOTFOUND hr=8876038a)
+d:\dev2\commondev\d3dfile.cpp(1186): Execption
+d:\dev2\commondev\d3dfile.cpp(50): result->create( device, filename, zip)(E_FAIL hr=80004005)
+App Start
+.\TerraFighter.cpp(15): Start App
+d:\dev2\commondev\dsutil.cpp(469): Create Sound laserfire3.wav
+
+d:\dev2\commondev\dsutil.cpp(469): Create Sound laserfire3.wav
+
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+
+d:\dev2\commondev\d3dfile.cpp(32): sf-05.x
+d:\dev2\commondev\d3dfile.cpp(32): sf-06.x
+d:\dev2\commondev\d3dfile.cpp(32): sf-08.x
+d:\dev2\commondev\d3dfile.cpp(32): sf-11.x
+d:\dev2\commondev\d3dfile.cpp(32): sf-03.x
+d:\dev2\commondev\d3dfile.cpp(32): sf-01.x
+d:\dev2\commondev\d3dfile.cpp(32): al-05.x
+d:\dev2\commondev\d3dfile.cpp(32): al-10.x
+d:\dev2\commondev\d3dfile.cpp(32): al-12.x
+d:\dev2\commondev\d3dfile.cpp(32): al-13.x
+d:\dev2\commondev\d3dfile.cpp(32): al-14.x
+d:\dev2\commondev\d3dfile.cpp(32): al-17.x
+d:\dev2\commondev\d3dfile.cpp(32): Bld-01.x
+d:\dev2\commondev\d3dfile.cpp(32): Bld-07.x
+d:\dev2\commondev\d3dfile.cpp(32): Bld-08.x
+d:\dev2\commondev\d3dfile.cpp(32): Bld-10.x
+d:\dev2\commondev\d3dfile.cpp(32): Gunta.x
+.\TerraFighterApp.cpp(1166): DEBUG: Start Deleting Old Objects
+
+.\TerraFighterApp.cpp(1225): SetupMap
+
+.\TerraFighterApp.cpp(1232): lake2.bmp
+.\TerraFighterApp.cpp(1237):  Create Map
+
+d:\dev2\commondev\dsutil.cpp(469): Create Sound hum.wav
+
+d:\dev2\commondev\dsutil.cpp(469): Create Sound hum.wav
+
+d:\dev2\commondev\dsutil.cpp(469): Create Sound hum.wav
+
+d:\dev2\commondev\dsutil.cpp(469): Create Sound hum.wav
+
+d:\dev2\commondev\dsutil.cpp(469): Create Sound hum.wav
+
+d:\dev2\commondev\d3dfile.cpp(32): sf-05.x
+App Start
+.\TerraFighter.cpp(15): Start App
+d:\dev2\commondev\dsutil.cpp(469): Create Sound laserfire3.wav
+
+d:\dev2\commondev\dsutil.cpp(469): Create Sound laserfire3.wav
+
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+
+d:\dev2\commondev\d3dfile.cpp(32): sf-05.x
+d:\dev2\commondev\d3dfile.cpp(32): sf-06.x
+d:\dev2\commondev\d3dfile.cpp(32): sf-08.x
+d:\dev2\commondev\d3dfile.cpp(32): sf-11.x
+d:\dev2\commondev\d3dfile.cpp(32): sf-03.x
+d:\dev2\commondev\d3dfile.cpp(32): sf-01.x
+d:\dev2\commondev\d3dfile.cpp(32): al-05.x
+d:\dev2\commondev\d3dfile.cpp(32): al-10.x
+d:\dev2\commondev\d3dfile.cpp(32): al-12.x
+d:\dev2\commondev\d3dfile.cpp(32): al-13.x
+d:\dev2\commondev\d3dfile.cpp(32): al-14.x
+d:\dev2\commondev\d3dfile.cpp(32): al-17.x
+d:\dev2\commondev\d3dfile.cpp(32): Bld-01.x
+d:\dev2\commondev\d3dfile.cpp(32): Bld-07.x
+d:\dev2\commondev\d3dfile.cpp(32): Bld-08.x
+d:\dev2\commondev\d3dfile.cpp(32): Bld-10.x
+d:\dev2\commondev\d3dfile.cpp(32): Gunta.x
+.\TerraFighterApp.cpp(1166): DEBUG: Start Deleting Old Objects
+
+.\TerraFighterApp.cpp(1225): SetupMap
+
+.\TerraFighterApp.cpp(1232): lake2.bmp
+.\TerraFighterApp.cpp(1237):  Create Map
+
+d:\dev2\commondev\dsutil.cpp(469): Create Sound hum.wav
+
+d:\dev2\commondev\dsutil.cpp(469): Create Sound hum.wav
+
+d:\dev2\commondev\dsutil.cpp(469): Create Sound hum.wav
+
+d:\dev2\commondev\dsutil.cpp(469): Create Sound hum.wav
+
+d:\dev2\commondev\dsutil.cpp(469): Create Sound hum.wav
+
+d:\dev2\commondev\d3dfile.cpp(32): sf-05.x
+App Start
+.\TerraFighter.cpp(15): Start App
+d:\dev2\commondev\dsutil.cpp(469): Create Sound laserfire3.wav
+
+d:\dev2\commondev\dsutil.cpp(469): Create Sound laserfire3.wav
+
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+
+d:\dev2\commondev\d3dfile.cpp(32): sf-05.x
+d:\dev2\commondev\d3dfile.cpp(32): sf-06.x
+d:\dev2\commondev\d3dfile.cpp(32): sf-08.x
+d:\dev2\commondev\d3dfile.cpp(32): sf-11.x
+d:\dev2\commondev\d3dfile.cpp(32): sf-03.x
+d:\dev2\commondev\d3dfile.cpp(32): sf-01.x
+d:\dev2\commondev\d3dfile.cpp(32): al-05.x
+d:\dev2\commondev\d3dfile.cpp(32): al-10.x
+d:\dev2\commondev\d3dfile.cpp(32): al-12.x
+d:\dev2\commondev\d3dfile.cpp(32): al-13.x
+d:\dev2\commondev\d3dfile.cpp(32): al-14.x
+d:\dev2\commondev\d3dfile.cpp(32): al-17.x
+d:\dev2\commondev\d3dfile.cpp(32): Bld-01.x
+d:\dev2\commondev\d3dfile.cpp(32): Bld-07.x
+d:\dev2\commondev\d3dfile.cpp(32): Bld-08.x
+d:\dev2\commondev\d3dfile.cpp(32): Bld-10.x
+d:\dev2\commondev\d3dfile.cpp(32): Gunta.x
+.\TerraFighterApp.cpp(1166): DEBUG: Start Deleting Old Objects
+
+.\TerraFighterApp.cpp(1225): SetupMap
+
+.\TerraFighterApp.cpp(1232): lake2.bmp
+.\TerraFighterApp.cpp(1237):  Create Map
+
+d:\dev2\commondev\dsutil.cpp(469): Create Sound hum.wav
+
+d:\dev2\commondev\dsutil.cpp(469): Create Sound hum.wav
+
+d:\dev2\commondev\dsutil.cpp(469): Create Sound hum.wav
+
+d:\dev2\commondev\dsutil.cpp(469): Create Sound hum.wav
+
+d:\dev2\commondev\dsutil.cpp(469): Create Sound hum.wav
+
+d:\dev2\commondev\d3dfile.cpp(32): sf-05.x
+App Start
+.\TerraFighter.cpp(15): Start App
+d:\dev2\commondev\dsutil.cpp(469): Create Sound laserfire3.wav
+
+d:\dev2\commondev\dsutil.cpp(469): Create Sound laserfire3.wav
+
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+
+d:\dev2\commondev\dsutil.cpp(469): Create Sound SOUND49D.WAV
+
+d:\dev2\commondev\d3dfile.cpp(32): sf-05.x
+d:\dev2\commondev\d3dfile.cpp(32): sf-06.x
+d:\dev2\commondev\d3dfile.cpp(32): sf-08.x
+d:\dev2\commondev\d3dfile.cpp(32): sf-11.x
+d:\dev2\commondev\d3dfile.cpp(32): sf-03.x
+d:\dev2\commondev\d3dfile.cpp(32): sf-01.x
+d:\dev2\commondev\d3dfile.cpp(32): al-05.x
+d:\dev2\commondev\d3dfile.cpp(32): al-10.x
+d:\dev2\commondev\d3dfile.cpp(32): al-12.x
+d:\dev2\commondev\d3dfile.cpp(32): al-13.x
+d:\dev2\commondev\d3dfile.cpp(32): al-14.x
+d:\dev2\commondev\d3dfile.cpp(32): al-17.x
+d:\dev2\commondev\d3dfile.cpp(32): Bld-01.x
+d:\dev2\commondev\d3dfile.cpp(32): Bld-07.x
+d:\dev2\commondev\d3dfile.cpp(32): Bld-08.x
+d:\dev2\commondev\d3dfile.cpp(32): Bld-10.x
+d:\dev2\commondev\d3dfile.cpp(32): Gunta.x
+.\TerraFighterApp.cpp(1166): DEBUG: Start Deleting Old Objects
+
+.\TerraFighterApp.cpp(1225): SetupMap
+
+.\TerraFighterApp.cpp(1232): lake2.bmp
+.\TerraFighterApp.cpp(1237):  Create Map
+
+d:\dev2\commondev\dsutil.cpp(469): Create Sound hum.wav
+
+d:\dev2\commondev\dsutil.cpp(469): Create Sound hum.wav
+
+d:\dev2\commondev\dsutil.cpp(469): Create Sound hum.wav
+
+d:\dev2\commondev\dsutil.cpp(469): Create Sound hum.wav
+
+d:\dev2\commondev\dsutil.cpp(469): Create Sound hum.wav
+
+d:\dev2\commondev\d3dfile.cpp(32): sf-05.x
+d:\dev2\commondev\d3dfile.cpp(32): sphere0.x
+d:\dev2\commondev\d3dfile.cpp(32): Bld-01.x
+d:\dev2\commondev\d3dfile.cpp(32): sphere0.x
+d:\dev2\commondev\d3dfile.cpp(32): Gunta.x
+d:\dev2\commondev\d3dfile.cpp(32): sphere0.x
+d:\dev2\commondev\d3dfile.cpp(32): Gunta.x
+d:\dev2\commondev\d3dfile.cpp(32): sphere0.x
+d:\dev2\commondev\d3dfile.cpp(32): Gunta.x
+d:\dev2\commondev\d3dfile.cpp(32): sphere0.x
+d:\dev2\commondev\dsutil.cpp(469): Create Sound p_bang.wav
+
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): grass.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Oak_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Dogwood_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Aspen_Tree.x
+d:\dev2\commondev\d3dfile.cpp(32): Crate.X
+d:\dev2\commondev\d3dfile.cpp(32): Crate.X
+d:\dev2\commondev\d3dfile.cpp(32): Crate.X
+d:\dev2\commondev\d3dfile.cpp(32): Crate.X
+d:\dev2\commondev\dsutil.cpp(494): Delete Sound hum.wav
+
+d:\dev2\commondev\dsutil.cpp(494): Delete Sound hum.wav
+
+d:\dev2\commondev\dsutil.cpp(494): Delete Sound p_bang.wav
+
+d:\dev2\commondev\dsutil.cpp(494): Delete Sound hum.wav
+
+d:\dev2\commondev\dsutil.cpp(494): Delete Sound hum.wav
+
+d:\dev2\commondev\dsutil.cpp(494): Delete Sound hum.wav
+

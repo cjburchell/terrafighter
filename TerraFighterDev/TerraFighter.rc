@@ -1,0 +1,530 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#define IDC_STATIC -1
+#include <windows.h>
+
+
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// English (U.S.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+#endif //_WIN32
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDI_MAIN_ICON           ICON    DISCARDABLE     "DirectX.ico"
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#define IDC_STATIC -1\r\n"
+    "#include <windows.h>\r\n"
+    "\r\n"
+    "\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Accelerator
+//
+
+IDR_MAIN_ACCEL ACCELERATORS DISCARDABLE 
+BEGIN
+    "O",            IDM_TOGGLESTART,        VIRTKEY, ALT, NOINVERT
+    "P",            IDM_SINGLESTEP,         VIRTKEY, ALT, NOINVERT
+    VK_RETURN,      IDM_TOGGLEFULLSCREEN,   VIRTKEY, ALT, NOINVERT
+    "X",            IDM_EXIT,               VIRTKEY, ALT, NOINVERT
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO DISCARDABLE 
+BEGIN
+    IDD_SELECTDEVICE, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 394
+        TOPMARGIN, 7
+    END
+
+    IDD_SI_PLAYERS, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 293
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 173
+    END
+
+    IDD_SI_MESSAGES, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 293
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 173
+    END
+
+    IDD_SI_MAIN, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 313
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 219
+    END
+
+    IDD_MULTIPLAYER_GAMES, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 275
+        VERTGUIDE, 141
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 159
+    END
+
+    IDD_MULTIPLAYER_CREATE, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 241
+        VERTGUIDE, 91
+        VERTGUIDE, 120
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 143
+    END
+
+    IDD_MULTIPLAYER_CONNECT, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 340
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 195
+    END
+
+    IDD_MULTIPLAYER_ADDRESS, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 195
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 117
+    END
+
+    IDD_LOBBY_WAIT_STATUS, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 148
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 45
+    END
+
+    IDD_CHATBOX, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 237
+        TOPMARGIN, 7
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_SELECTDEVICE DIALOG DISCARDABLE  0, 0, 401, 167
+STYLE DS_MODALFRAME | DS_CENTER | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Select Device"
+FONT 8, "MS Shell Dlg"
+BEGIN
+    COMBOBOX        IDC_ADAPTER_COMBO,131,17,180,100,CBS_DROPDOWNLIST | 
+                    WS_VSCROLL | WS_TABSTOP
+    COMBOBOX        IDC_DEVICE_COMBO,131,32,180,100,CBS_DROPDOWNLIST | 
+                    WS_VSCROLL | WS_TABSTOP
+    COMBOBOX        IDC_FULLSCREENMODES_COMBO,131,86,180,204,
+                    CBS_DROPDOWNLIST | WS_VSCROLL | WS_GROUP | WS_TABSTOP
+    COMBOBOX        IDC_MULTISAMPLE_COMBO,131,135,180,100,CBS_DROPDOWNLIST | 
+                    WS_VSCROLL | WS_TABSTOP
+    GROUPBOX        "Rendering device",IDC_STATIC,7,7,309,45
+    LTEXT           "Adapter:",IDC_STATIC,22,19,65,10,SS_CENTERIMAGE
+    LTEXT           "Device:",IDC_STATIC,22,34,65,10,SS_CENTERIMAGE
+    GROUPBOX        "Multisample",IDC_MULTI_SMPL_GB,7,124,310,28
+    GROUPBOX        "Rendering mode",IDC_STATIC,7,60,310,45
+    CONTROL         "Use desktop window",IDC_WINDOW,"Button",
+                    BS_AUTORADIOBUTTON | WS_GROUP | WS_TABSTOP,10,71,85,15
+    CONTROL         "Fullscreen mode:",IDC_FULLSCREEN,"Button",
+                    BS_AUTORADIOBUTTON,10,86,75,15
+    LTEXT           "Multisample Type:",IDC_MULTISAMPLE_TXT,22,137,62,10,
+                    SS_CENTERIMAGE
+    DEFPUSHBUTTON   "OK",IDOK,324,10,70,20
+    PUSHBUTTON      "Cancel",IDCANCEL,324,35,70,20
+END
+
+IDD_SI_PLAYERS DIALOGEX 0, 0, 300, 180
+STYLE WS_CHILD
+FONT 8, "MS Shell Dlg", 0, 0, 0x1
+BEGIN
+    LISTBOX         IDC_SI_PLAYERS,13,20,97,89,LBS_SORT | 
+                    LBS_NOINTEGRALHEIGHT | WS_VSCROLL | WS_TABSTOP
+    LISTBOX         IDC_SI_GROUPS,13,122,97,45,LBS_SORT | 
+                    LBS_NOINTEGRALHEIGHT | WS_VSCROLL | WS_TABSTOP
+    LTEXT           "Players",IDC_STATIC,13,12,24,8
+    LTEXT           "Groups",IDC_STATIC,13,114,24,8
+    LTEXT           "Description",IDC_STATIC,128,88,36,8
+    CONTROL         "",IDC_SI_NAME_BORDER,"Button",BS_OWNERDRAW | 
+                    WS_DISABLED,128,7,165,21,WS_EX_CLIENTEDGE
+    LISTBOX         IDC_SI_MEMBERSHIP,128,43,165,40,LBS_SORT | 
+                    LBS_NOINTEGRALHEIGHT | WS_VSCROLL | WS_TABSTOP
+    LTEXT           "Member Of",IDC_SI_MEMBERSHIP_TEXT,128,35,36,8
+    CONTROL         "",IDC_STATIC,"Static",SS_GRAYFRAME,7,7,109,166
+    LTEXT           "Player Name",IDC_SI_NAME,152,10,133,15
+    ICON            "",IDC_SI_NAME_ICON,131,9,20,20
+    EDITTEXT        IDC_SI_DESCRIPTION,128,96,165,77,ES_MULTILINE | 
+                    WS_HSCROLL
+END
+
+IDD_SI_MESSAGES DIALOG DISCARDABLE  0, 0, 300, 180
+STYLE WS_CHILD
+FONT 8, "MS Shell Dlg"
+BEGIN
+    LISTBOX         IDC_SI_DPLAYMSG,12,17,275,68,LBS_SORT | 
+                    LBS_NOINTEGRALHEIGHT | WS_VSCROLL | WS_TABSTOP
+    LISTBOX         IDC_SI_APPMSG,12,101,275,68,LBS_SORT | 
+                    LBS_NOINTEGRALHEIGHT | WS_VSCROLL | WS_TABSTOP
+    LTEXT           "DirectPlay Messages",IDC_STATIC,12,8,67,8
+    LTEXT           "Application Messages",IDC_STATIC,12,91,70,8
+END
+
+IDD_SI_MAIN DIALOG DISCARDABLE  0, 0, 320, 226
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Dialog"
+FONT 8, "MS Shell Dlg"
+BEGIN
+    PUSHBUTTON      "Close",IDCANCEL,263,205,50,14
+    CONTROL         "Tab1",IDC_SI_TAB,"SysTabControl32",0x0,7,7,306,194
+END
+
+IDD_MULTIPLAYER_GAMES DIALOG DISCARDABLE  0, 0, 282, 166
+STYLE DS_MODALFRAME | DS_CENTER | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Multiplayer Games"
+FONT 8, "MS Shell Dlg"
+BEGIN
+    LTEXT           "Select Game To Join:",-1,7,15,69,8
+    PUSHBUTTON      "Start Search",IDC_SEARCH_CHECK,205,7,70,20
+    LISTBOX         IDC_GAMES_LIST,7,39,268,91,LBS_SORT | 
+                    LBS_NOINTEGRALHEIGHT | WS_VSCROLL | WS_TABSTOP
+    PUSHBUTTON      "Join",IDC_JOIN,7,139,70,20
+    PUSHBUTTON      "Create",IDC_CREATE,81,139,70,20
+    PUSHBUTTON      "Cancel",IDC_BACK,205,139,70,20
+END
+
+IDD_MULTIPLAYER_CREATE DIALOG DISCARDABLE  0, 0, 249, 151
+STYLE DS_MODALFRAME | DS_CENTER | DS_CONTEXTHELP | WS_POPUP | WS_CAPTION | 
+    WS_SYSMENU
+CAPTION "Create Game"
+FONT 8, "MS Shell Dlg"
+BEGIN
+    LTEXT           "Game Name:",IDC_STATIC,9,11,42,8
+    GROUPBOX        "Session Signing",IDC_STATIC,8,32,105,80
+    EDITTEXT        IDC_EDIT_SESSION_NAME,71,10,170,14,ES_AUTOHSCROLL
+    CONTROL         "Full Signed",IDC_SIGNING_FULL,"Button",
+                    BS_AUTORADIOBUTTON | WS_GROUP | WS_TABSTOP,20,50,51,10
+    CONTROL         "Fast Signed",IDC_SIGNING_FAST,"Button",
+                    BS_AUTORADIOBUTTON,20,68,53,10
+    CONTROL         "Disabled",IDC_DISABLED,"Button",BS_AUTORADIOBUTTON,20,
+                    86,43,10
+    CONTROL         "Enable Host Migration",IDC_MIGRATE_HOST,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,120,33,121,10
+    CONTROL         "Use DPNSVR",IDC_USE_DPNSVR,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,120,47,61,10
+    EDITTEXT        IDC_LOCAL_PORT,120,78,121,14,ES_AUTOHSCROLL
+    DEFPUSHBUTTON   "OK",IDOK,98,123,70,20
+    PUSHBUTTON      "Cancel",IDCANCEL,171,123,70,20
+    LTEXT           "Local Port:",IDC_LOCAL_PORT_TEXT2,120,65,35,8
+END
+
+IDD_MULTIPLAYER_CONNECT DIALOG DISCARDABLE  0, 0, 347, 202
+STYLE DS_MODALFRAME | DS_CENTER | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Multiplayer Connect"
+FONT 8, "MS Shell Dlg"
+BEGIN
+    LTEXT           "Player Name:",IDC_STATIC,7,10,43,8
+    EDITTEXT        IDC_PLAYER_NAME_EDIT,7,27,333,14,ES_AUTOHSCROLL
+    LTEXT           "Connection Type:",IDC_STATIC,7,49,57,8
+    LISTBOX         IDC_CONNECTION_LIST,7,64,333,90,LBS_SORT | 
+                    LBS_NOINTEGRALHEIGHT | WS_VSCROLL | WS_TABSTOP
+    DEFPUSHBUTTON   "OK",IDOK,195,175,70,20
+    PUSHBUTTON      "Cancel",IDCANCEL,270,175,70,20
+END
+
+IDD_MULTIPLAYER_ADDRESS DIALOG DISCARDABLE  0, 0, 202, 124
+STYLE DS_MODALFRAME | DS_CENTER | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Remote Address"
+FONT 8, "MS Shell Dlg"
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,51,97,70,20
+    PUSHBUTTON      "Cancel",IDCANCEL,125,97,70,20
+    EDITTEXT        IDC_REMOTE_HOSTNAME,7,20,170,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_REMOTE_PORT,7,52,74,14,ES_AUTOHSCROLL
+    LTEXT           "Hostname ",IDC_STATIC,7,7,35,8
+    LTEXT           "Port",IDC_STATIC,7,39,14,8
+END
+
+IDD_LOBBY_WAIT_STATUS DIALOG DISCARDABLE  120, 110, 162, 52
+STYLE DS_MODALFRAME | DS_CENTER | WS_POPUP | WS_VISIBLE | WS_CAPTION
+CAPTION "Lobby Connection Status"
+FONT 8, "MS Shell Dlg"
+BEGIN
+    DEFPUSHBUTTON   "Cancel",IDCANCEL,55,31,51,14
+    CTEXT           "Finding Game...",IDC_WAIT_TEXT,7,14,141,8
+END
+
+IDD_CHATBOX DIALOG DISCARDABLE  0, 0, 244, 118
+STYLE DS_MODALFRAME | DS_CENTER | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Messages"
+FONT 8, "MS Shell Dlg"
+BEGIN
+    LISTBOX         IDC_CHAT_LIST,7,7,230,88,LBS_SORT | LBS_NOINTEGRALHEIGHT | 
+                    WS_VSCROLL | WS_TABSTOP
+    EDITTEXT        IDC_CHAT_EDIT,7,97,155,17,ES_AUTOHSCROLL
+    DEFPUSHBUTTON   "Send",ID_SEND,167,97,70,20
+END
+
+#endif    // English (U.S.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+/////////////////////////////////////////////////////////////////////////////
+// English (Canada) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENC)
+#ifdef _WIN32
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+#pragma code_page(1252)
+#endif //_WIN32
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO DISCARDABLE 
+BEGIN
+    IDD_SELECT_LEVEL, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 326
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 189
+    END
+
+    IDD_OPTIONS, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 143
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 143
+    END
+
+    IDD_MENU, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 104
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 114
+    END
+
+    IDD_SELECT_SHIP, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 411
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 287
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_SELECT_LEVEL DIALOG DISCARDABLE  0, 0, 333, 196
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Select Level"
+FONT 8, "MS Sans Serif"
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,256,7,70,20
+    PUSHBUTTON      "Cancel",IDCANCEL,256,31,70,20
+    CONTROL         "",IDC_BITMAP,"Static",SS_BLACKFRAME,33,34,128,128
+    PUSHBUTTON      "Previous",IDC_PREV,7,7,19,182
+    PUSHBUTTON      "Next",IDC_NEXT,168,7,19,182
+    LTEXT           "LevelName",IDC_LEVEL_NAME,201,59,37,8
+    LTEXT           "Discription",IDC_DISCRIPTION,201,74,118,107
+END
+
+IDD_OPTIONS DIALOG DISCARDABLE  0, 0, 150, 150
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Options"
+FONT 8, "MS Sans Serif"
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,7,123,112,20
+    CONTROL         "Enable Shadows",IDC_CHECK_SHADOW,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,7,7,69,10
+    CONTROL         "Enable Multi Texturing",IDC_CHECK_MULTEX,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,7,25,86,10
+    CONTROL         "Enable Water Effects",IDC_CHECK_WATER,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,7,42,83,10
+    CONTROL         "Enable HighDef Terrain",IDC_CHECK_HIGH_DEF,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,7,60,90,10
+    CONTROL         "Enable 3D Sound",IDC_CHECK_3D_SOUND,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,7,79,72,10
+    PUSHBUTTON      "Display Settings",IDC_DISPLAY,7,98,112,20
+END
+
+IDD_MENU DIALOG DISCARDABLE  0, 0, 111, 121
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Menu"
+FONT 8, "MS Sans Serif"
+BEGIN
+    PUSHBUTTON      "New",IDC_NEW,7,7,97,20
+    PUSHBUTTON      "Resume",IDC_RESUME,7,51,97,20
+    PUSHBUTTON      "Options",IDC_OPTIONS,7,73,97,20
+    PUSHBUTTON      "Quit",IDC_QUIT,7,95,97,20
+    PUSHBUTTON      "New Multi Player",IDC_MULTI_PLAYER,7,29,97,20
+END
+
+IDD_SELECT_SHIP DIALOG DISCARDABLE  0, 0, 418, 294
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Select Ship"
+FONT 8, "MS Sans Serif"
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,341,7,70,20
+    PUSHBUTTON      "Cancel",IDCANCEL,341,31,70,20
+    PUSHBUTTON      "Previous",IDC_PREV,7,31,19,256
+    PUSHBUTTON      "Next",IDC_NEXT,285,31,19,256
+    CONTROL         "",IDC_BITMAP,"Static",SS_BLACKFRAME,28,31,256,256
+    LTEXT           "Status Text",IDC_STATS_TEXT,310,64,37,8
+    LTEXT           "Name",IDC_STATIC,15,14,20,8
+    EDITTEXT        IDC_PLAYER_NAME,50,12,234,14,ES_AUTOHSCROLL
+END
+
+
+#ifndef _MAC
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,1
+ PRODUCTVERSION 1,0,0,1
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x40004L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "100904b0"
+        BEGIN
+            VALUE "Comments", "\0"
+            VALUE "CompanyName", "RedPoint Games\0"
+            VALUE "FileDescription", "TerraFighter\0"
+            VALUE "FileVersion", "1, 0, 0, 1\0"
+            VALUE "InternalName", "TerraFighter\0"
+            VALUE "LegalCopyright", "Copyright © 2003\0"
+            VALUE "LegalTrademarks", "\0"
+            VALUE "OriginalFilename", "TerraFighter.exe\0"
+            VALUE "PrivateBuild", "\0"
+            VALUE "ProductName", "RedPoint Games TerraFighter\0"
+            VALUE "ProductVersion", "1, 0, 0, 1\0"
+            VALUE "SpecialBuild", "\0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x1009, 1200
+    END
+END
+
+#endif    // !_MAC
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    WM_ADD_PLAYER           "WM_ADD_PLAYER"
+    WM_DESTROY_PLAYER       "WM_DESTROY_PLAYER"
+    WM_NET_MIGRATE          "WM_NET_MIGRATE"
+    WM_NET_TERMINATE        "WM_NET_TERMINATE"
+    WM_NET_MESSAGE          "WM_NET_MESSAGE"
+END
+
+#endif    // English (Canada) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

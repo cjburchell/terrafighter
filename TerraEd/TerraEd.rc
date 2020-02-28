@@ -1,0 +1,1324 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// English (U.S.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+#endif //_WIN32
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDR_MAINFRAME           ICON    DISCARDABLE     "res\\TerraEd.ico"
+IDR_TERRAETYPE          ICON    DISCARDABLE     "res\\TerraEdDoc.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDR_MAINFRAME           BITMAP  MOVEABLE PURE   "res\\Toolbar.bmp"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Toolbar
+//
+
+IDR_MAINFRAME TOOLBAR DISCARDABLE  16, 15
+BEGIN
+    BUTTON      ID_FILE_NEW
+    BUTTON      ID_FILE_OPEN
+    BUTTON      ID_FILE_SAVE
+    SEPARATOR
+    BUTTON      ID_EDIT_CUT
+    BUTTON      ID_EDIT_COPY
+    BUTTON      ID_EDIT_PASTE
+    SEPARATOR
+    BUTTON      ID_TOOLS_FILL
+    SEPARATOR
+    BUTTON      ID_SELECT_MODE
+    BUTTON      ID_PAINT_MODE
+    BUTTON      ID_EDIT_TERRAIN
+    SEPARATOR
+    BUTTON      ID_PAN_MODE
+    BUTTON      ID_ROTATE_WORLD
+    BUTTON      ID_ROTATE_SELECTED
+    SEPARATOR
+    BUTTON      ID_APP_ABOUT
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Menu
+//
+
+IDR_TERRAETYPE MENU PRELOAD DISCARDABLE 
+BEGIN
+    POPUP "&File"
+    BEGIN
+        MENUITEM "&Open...\tCtrl+O",            ID_FILE_OPEN
+        MENUITEM "&Close",                      ID_FILE_CLOSE
+        MENUITEM "&Save\tCtrl+S",               ID_FILE_SAVE
+        MENUITEM SEPARATOR
+        MENUITEM "Add File",                    ID_TOOLS_ADDFILE
+        MENUITEM "Remove File",                 ID_TOOLS_REMOVEFILE
+        MENUITEM SEPARATOR
+        MENUITEM "Save Current Terrain",        ID_FILE_SAVECURRENTTERRAIN
+        MENUITEM "Save Textures",               ID_FILE_SAVETEXTURES
+        MENUITEM SEPARATOR
+        MENUITEM "Recent File",                 ID_FILE_MRU_FILE1, GRAYED
+        MENUITEM SEPARATOR
+        MENUITEM "E&xit",                       ID_APP_EXIT
+    END
+    POPUP "&Edit"
+    BEGIN
+        MENUITEM "&Undo\tCtrl+Z",               ID_EDIT_UNDO
+        MENUITEM SEPARATOR
+        MENUITEM "Cu&t\tCtrl+X",                ID_EDIT_CUT
+        MENUITEM "&Copy\tCtrl+C",               ID_EDIT_COPY
+        MENUITEM "&Paste\tCtrl+V",              ID_EDIT_PASTE
+    END
+    POPUP "Tools"
+    BEGIN
+        MENUITEM "Select",                      ID_SELECT_MODE
+        MENUITEM "Paint Map",                   ID_PAINT_MODE
+        MENUITEM "Edit Terrain",                ID_EDIT_TERRAIN
+        MENUITEM "Pan",                         ID_PAN_MODE
+        MENUITEM "Rotate World",                ID_ROTATE_WORLD
+        MENUITEM "Rotate Selected",             ID_ROTATE_SELECTED
+        MENUITEM SEPARATOR
+        MENUITEM "Fill",                        ID_TOOLS_FILL
+        MENUITEM "Edit",                        ID_EDIT
+        POPUP "New"
+        BEGIN
+            MENUITEM "Level",                       ID_TOOLS_NEW_LEVEL
+            MENUITEM "Object Data",                 ID_TOOLS_NEW_OBJECTDATA
+            MENUITEM "Sprite Data",                 ID_TOOLS_NEW_SPRITEDATA
+            MENUITEM SEPARATOR
+            MENUITEM "Texture",                     ID_LEVEL_ADD_TEXTURE
+            MENUITEM "Sprite",                      ID_LEVEL_ADD_SPRITE
+            MENUITEM "Object",                      ID_LEVEL_ADD_OBJECT
+            MENUITEM "Event",                       ID_LEVEL_ADD_EVENT
+            MENUITEM "Create Object",               ID_EVENT_ADD_CREATEOBJECT
+
+            MENUITEM "Create Sprite",               ID_EVENT_ADD_CREATESPRITE
+
+            MENUITEM "Change Sprite",               ID_EVENT_ADD_CHANGESPRITE
+
+        END
+        MENUITEM "Create Random Objects",       ID_TOOLS_CREATERANDOMOBJECTS
+        MENUITEM "Generate Lightmap",           ID_TOOLS_GENERATELIGHTMAP
+        MENUITEM SEPARATOR
+        MENUITEM "Delete",                      ID_DELETE
+    END
+    POPUP "&View"
+    BEGIN
+        MENUITEM "&Toolbar",                    ID_VIEW_TOOLBAR
+        MENUITEM "&Status Bar",                 ID_VIEW_STATUS_BAR
+        MENUITEM "Fog",                         ID_VIEW_FOG
+    END
+    POPUP "&Window"
+    BEGIN
+        MENUITEM "&Cascade",                    ID_WINDOW_CASCADE
+        MENUITEM "&Tile",                       ID_WINDOW_TILE_HORZ
+        MENUITEM "&Arrange Icons",              ID_WINDOW_ARRANGE
+    END
+    POPUP "&Help"
+    BEGIN
+        MENUITEM "&About TerraEd...",           ID_APP_ABOUT
+    END
+END
+
+IDR_MAINFRAME MENU PRELOAD DISCARDABLE 
+BEGIN
+    POPUP "&File"
+    BEGIN
+        MENUITEM "&Open...\tCtrl+O",            ID_FILE_OPEN
+        MENUITEM "&Close",                      ID_FILE_CLOSE
+        MENUITEM "&Save\tCtrl+S",               ID_FILE_SAVE
+        MENUITEM SEPARATOR
+        MENUITEM "Add File",                    ID_TOOLS_ADDFILE
+        MENUITEM "Remove File",                 ID_TOOLS_REMOVEFILE
+        MENUITEM SEPARATOR
+        MENUITEM "Save Current Terrain",        ID_FILE_SAVECURRENTTERRAIN
+        MENUITEM "Save Textures",               ID_FILE_SAVETEXTURES
+        MENUITEM SEPARATOR
+        MENUITEM "Recent File",                 ID_FILE_MRU_FILE1, GRAYED
+        MENUITEM SEPARATOR
+        MENUITEM "E&xit",                       ID_APP_EXIT
+    END
+    POPUP "&Edit"
+    BEGIN
+        MENUITEM "&Undo\tCtrl+Z",               ID_EDIT_UNDO
+        MENUITEM SEPARATOR
+        MENUITEM "Cu&t\tCtrl+X",                ID_EDIT_CUT
+        MENUITEM "&Copy\tCtrl+C",               ID_EDIT_COPY
+        MENUITEM "&Paste\tCtrl+V",              ID_EDIT_PASTE
+    END
+    POPUP "Tools"
+    BEGIN
+        MENUITEM "Select",                      ID_SELECT_MODE
+        MENUITEM "Paint Map",                   ID_PAINT_MODE
+        MENUITEM "Edit Terrain",                ID_EDIT_TERRAIN
+        MENUITEM "Pan",                         ID_PAN_MODE
+        MENUITEM "Rotate World",                ID_ROTATE_WORLD
+        MENUITEM "Rotate Selected",             ID_ROTATE_SELECTED
+        MENUITEM SEPARATOR
+        MENUITEM "Fill",                        ID_TOOLS_FILL
+        MENUITEM "Edit",                        ID_EDIT
+        POPUP "New"
+        BEGIN
+            MENUITEM "Level",                       ID_TOOLS_NEW_LEVEL
+            MENUITEM "Object Data",                 ID_TOOLS_NEW_OBJECTDATA
+            MENUITEM "Sprite Data",                 ID_TOOLS_NEW_SPRITEDATA
+            MENUITEM SEPARATOR
+            MENUITEM "Texture",                     ID_LEVEL_ADD_TEXTURE
+            MENUITEM "Sprite",                      ID_LEVEL_ADD_SPRITE
+            MENUITEM "Object",                      ID_LEVEL_ADD_OBJECT
+            MENUITEM "Event",                       ID_LEVEL_ADD_EVENT
+            MENUITEM "Create Object",               ID_EVENT_ADD_CREATEOBJECT
+
+            MENUITEM "Create Sprite",               ID_EVENT_ADD_CREATESPRITE
+
+            MENUITEM "Change Sprite",               ID_EVENT_ADD_CHANGESPRITE
+
+        END
+        MENUITEM "Create Random Objects",       ID_TOOLS_CREATERANDOMOBJECTS
+        MENUITEM "Generate Lightmap",           ID_TOOLS_GENERATELIGHTMAP
+        MENUITEM SEPARATOR
+        MENUITEM "Delete",                      ID_DELETE
+    END
+    POPUP "&View"
+    BEGIN
+        MENUITEM "&Toolbar",                    ID_VIEW_TOOLBAR
+        MENUITEM "&Status Bar",                 ID_VIEW_STATUS_BAR
+        MENUITEM "Fog",                         ID_VIEW_FOG
+    END
+    POPUP "&Window"
+    BEGIN
+        MENUITEM "&Cascade",                    ID_WINDOW_CASCADE
+        MENUITEM "&Tile",                       ID_WINDOW_TILE_HORZ
+        MENUITEM "&Arrange Icons",              ID_WINDOW_ARRANGE
+    END
+    POPUP "&Help"
+    BEGIN
+        MENUITEM "&About TerraEd...",           ID_APP_ABOUT
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Accelerator
+//
+
+IDR_MAINFRAME ACCELERATORS PRELOAD MOVEABLE PURE 
+BEGIN
+    "C",            ID_EDIT_COPY,           VIRTKEY, CONTROL, NOINVERT
+    "O",            ID_FILE_OPEN,           VIRTKEY, CONTROL, NOINVERT
+    "S",            ID_FILE_SAVE,           VIRTKEY, CONTROL, NOINVERT
+    "V",            ID_EDIT_PASTE,          VIRTKEY, CONTROL, NOINVERT
+    VK_BACK,        ID_EDIT_UNDO,           VIRTKEY, ALT, NOINVERT
+    VK_DELETE,      ID_EDIT_CUT,            VIRTKEY, SHIFT, NOINVERT
+    VK_F6,          ID_NEXT_PANE,           VIRTKEY, NOINVERT
+    VK_F6,          ID_PREV_PANE,           VIRTKEY, SHIFT, NOINVERT
+    VK_INSERT,      ID_EDIT_COPY,           VIRTKEY, CONTROL, NOINVERT
+    VK_INSERT,      ID_EDIT_PASTE,          VIRTKEY, SHIFT, NOINVERT
+    "X",            ID_EDIT_CUT,            VIRTKEY, CONTROL, NOINVERT
+    "Z",            ID_EDIT_UNDO,           VIRTKEY, CONTROL, NOINVERT
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_ABOUTBOX DIALOG DISCARDABLE  0, 0, 235, 55
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "About TerraEd"
+FONT 8, "MS Sans Serif"
+BEGIN
+    ICON            IDR_MAINFRAME,IDC_STATIC,11,17,20,20
+    LTEXT           "TerraEd Version 1.0",IDC_STATIC,40,10,119,8,SS_NOPREFIX
+    LTEXT           "Copyright (C) 2004",IDC_STATIC,40,25,119,8
+    DEFPUSHBUTTON   "OK",IDOK,178,7,50,14,WS_GROUP
+END
+
+CG_IDD_PALETTE DIALOGEX 0, 0, 175, 249
+STYLE WS_CHILD | WS_VISIBLE
+FONT 8, "MS Sans Serif"
+BEGIN
+    CONTROL         "Tab1",IDC_TAB1,"SysTabControl32",TCS_BOTTOM,7,7,161,235
+    CONTROL         "Tree1",IDC_LEVEL_TREE,"SysTreeView32",TVS_HASBUTTONS | 
+                    TVS_HASLINES | TVS_LINESATROOT | TVS_SHOWSELALWAYS | 
+                    TVS_INFOTIP | TVS_FULLROWSELECT | WS_BORDER | WS_TABSTOP,
+                    9,9,157,213,WS_EX_CLIENTEDGE
+    CONTROL         "Tree1",IDC_SPRITE_TREE,"SysTreeView32",TVS_HASBUTTONS | 
+                    TVS_HASLINES | TVS_SHOWSELALWAYS | TVS_INFOTIP | 
+                    TVS_FULLROWSELECT | WS_BORDER | WS_TABSTOP,0,18,157,213,
+                    WS_EX_CLIENTEDGE
+    CONTROL         "Tree1",IDC_OBJECTS_TREE,"SysTreeView32",TVS_HASBUTTONS | 
+                    TVS_HASLINES | TVS_SHOWSELALWAYS | TVS_INFOTIP | 
+                    TVS_FULLROWSELECT | WS_BORDER | WS_TABSTOP,9,26,157,213,
+                    WS_EX_CLIENTEDGE
+    CONTROL         "Tree1",IDC_WEAPONS_TREE,"SysTreeView32",TVS_HASBUTTONS | 
+                    TVS_HASLINES | TVS_SHOWSELALWAYS | TVS_INFOTIP | 
+                    TVS_FULLROWSELECT | WS_BORDER | WS_TABSTOP,9,26,157,213,
+                    WS_EX_CLIENTEDGE
+END
+
+IDD_SELECTDEVICE DIALOG DISCARDABLE  0, 0, 267, 138
+STYLE DS_MODALFRAME | DS_CENTER | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Select Device"
+FONT 8, "MS Shell Dlg"
+BEGIN
+    GROUPBOX        "Rendering device",IDC_STATIC,5,5,200,45
+    LTEXT           "&Adapter:",IDC_STATIC,22,17,65,10,SS_CENTERIMAGE
+    COMBOBOX        IDC_ADAPTER_COMBO,90,15,105,100,CBS_DROPDOWNLIST | 
+                    WS_VSCROLL | WS_TABSTOP
+    LTEXT           "&Device:",IDC_STATIC,22,32,65,10,SS_CENTERIMAGE
+    COMBOBOX        IDC_DEVICE_COMBO,90,30,105,100,CBS_DROPDOWNLIST | 
+                    WS_VSCROLL | WS_TABSTOP
+    GROUPBOX        "Rendering mode",IDC_STATIC,5,52,200,45
+    CONTROL         "Use desktop &window",IDC_WINDOW,"Button",
+                    BS_AUTORADIOBUTTON | WS_GROUP | WS_TABSTOP,10,62,85,15
+    CONTROL         "&Fullscreen mode:",IDC_FULLSCREEN,"Button",
+                    BS_AUTORADIOBUTTON,10,77,75,15
+    COMBOBOX        IDC_FULLSCREENMODES_COMBO,90,77,105,204,CBS_DROPDOWNLIST | 
+                    WS_VSCROLL | WS_GROUP | WS_TABSTOP
+    GROUPBOX        "Multisample",IDC_STATIC,5,101,200,28
+    LTEXT           "&Multisample Type:",IDC_STATIC,22,113,62,10,
+                    SS_CENTERIMAGE
+    COMBOBOX        IDC_MULTISAMPLE_COMBO,90,111,105,100,CBS_DROPDOWNLIST | 
+                    WS_VSCROLL | WS_TABSTOP
+    DEFPUSHBUTTON   "OK",IDOK,210,10,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,210,30,50,14
+END
+
+CG_IDD_PAINTBAR DIALOG DISCARDABLE  0, 0, 291, 12
+STYLE WS_CHILD
+FONT 8, "MS Sans Serif"
+BEGIN
+    COMBOBOX        IDC_BRUSH,30,0,78,56,CBS_DROPDOWNLIST | WS_VSCROLL | 
+                    WS_TABSTOP
+    LTEXT           "Brush",IDC_STATIC,7,2,19,8
+    COMBOBOX        IDC_BRUSH_TEXTURE,145,0,78,96,CBS_DROPDOWNLIST | 
+                    WS_VSCROLL | WS_TABSTOP
+    LTEXT           "Texture",IDC_STATIC,115,2,25,8
+END
+
+
+#ifndef _MAC
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,1
+ PRODUCTVERSION 1,0,0,1
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904b0"
+        BEGIN
+            VALUE "Comments", "\0"
+            VALUE "CompanyName", "\0"
+            VALUE "FileDescription", "TerraEd MFC Application\0"
+            VALUE "FileVersion", "1, 0, 0, 1\0"
+            VALUE "InternalName", "TerraEd\0"
+            VALUE "LegalCopyright", "Copyright (C) 2004\0"
+            VALUE "LegalTrademarks", "\0"
+            VALUE "OriginalFilename", "TerraEd.EXE\0"
+            VALUE "PrivateBuild", "\0"
+            VALUE "ProductName", "TerraEd Application\0"
+            VALUE "ProductVersion", "1, 0, 0, 1\0"
+            VALUE "SpecialBuild", "\0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x409, 1200
+    END
+END
+
+#endif    // !_MAC
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO DISCARDABLE 
+BEGIN
+    IDD_ABOUTBOX, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 228
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 48
+    END
+
+    CG_IDD_PALETTE, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 168
+        VERTGUIDE, 9
+        VERTGUIDE, 166
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 242
+        HORZGUIDE, 9
+        HORZGUIDE, 228
+    END
+
+    IDD_SELECTDEVICE, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 259
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 131
+    END
+
+    CG_IDD_PAINTBAR, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 284
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog Info
+//
+
+CG_IDD_PAINTBAR DLGINIT
+BEGIN
+    IDC_BRUSH, 0x403, 6, 0
+0x6554, 0x7473, 0x0031, 
+    IDC_BRUSH, 0x403, 6, 0
+0x6554, 0x7473, 0x0032, 
+    0
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE PRELOAD DISCARDABLE 
+BEGIN
+    IDR_MAINFRAME           "TerraEd"
+    IDR_TERRAETYPE          "\nTerraE\nTerraE\nData file (*.dat)\n.dat\nTerraEd.Document\nTerraE Document"
+END
+
+STRINGTABLE PRELOAD DISCARDABLE 
+BEGIN
+    AFX_IDS_APP_TITLE       "TerraEd"
+    AFX_IDS_IDLEMESSAGE     "Ready"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_INDICATOR_EXT        "EXT"
+    ID_INDICATOR_CAPS       "CAP"
+    ID_INDICATOR_NUM        "NUM"
+    ID_INDICATOR_SCRL       "SCRL"
+    ID_INDICATOR_OVR        "OVR"
+    ID_INDICATOR_REC        "REC"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_FILE_NEW             "Create a new document\nNew"
+    ID_FILE_OPEN            "Open an existing document\nOpen"
+    ID_FILE_CLOSE           "Close the active document\nClose"
+    ID_FILE_SAVE            "Save the active document\nSave"
+    ID_FILE_SAVE_AS         "Save the active document with a new name\nSave As"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_APP_ABOUT            "Display program information, version number and copyright\nAbout"
+    ID_APP_EXIT             "Quit the application; prompts to save documents\nExit"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_FILE_MRU_FILE1       "Open this document"
+    ID_FILE_MRU_FILE2       "Open this document"
+    ID_FILE_MRU_FILE3       "Open this document"
+    ID_FILE_MRU_FILE4       "Open this document"
+    ID_FILE_MRU_FILE5       "Open this document"
+    ID_FILE_MRU_FILE6       "Open this document"
+    ID_FILE_MRU_FILE7       "Open this document"
+    ID_FILE_MRU_FILE8       "Open this document"
+    ID_FILE_MRU_FILE9       "Open this document"
+    ID_FILE_MRU_FILE10      "Open this document"
+    ID_FILE_MRU_FILE11      "Open this document"
+    ID_FILE_MRU_FILE12      "Open this document"
+    ID_FILE_MRU_FILE13      "Open this document"
+    ID_FILE_MRU_FILE14      "Open this document"
+    ID_FILE_MRU_FILE15      "Open this document"
+    ID_FILE_MRU_FILE16      "Open this document"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_NEXT_PANE            "Switch to the next window pane\nNext Pane"
+    ID_PREV_PANE            "Switch back to the previous window pane\nPrevious Pane"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_WINDOW_NEW           "Open another window for the active document\nNew Window"
+    ID_WINDOW_ARRANGE       "Arrange icons at the bottom of the window\nArrange Icons"
+    ID_WINDOW_CASCADE       "Arrange windows so they overlap\nCascade Windows"
+    ID_WINDOW_TILE_HORZ     "Arrange windows as non-overlapping tiles\nTile Windows"
+    ID_WINDOW_TILE_VERT     "Arrange windows as non-overlapping tiles\nTile Windows"
+    ID_WINDOW_SPLIT         "Split the active window into panes\nSplit"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_EDIT_CLEAR           "Erase the selection\nErase"
+    ID_EDIT_CLEAR_ALL       "Erase everything\nErase All"
+    ID_EDIT_COPY            "Copy the selection and put it on the Clipboard\nCopy"
+    ID_EDIT_CUT             "Cut the selection and put it on the Clipboard\nCut"
+    ID_EDIT_FIND            "Find the specified text\nFind"
+    ID_EDIT_PASTE           "Insert Clipboard contents\nPaste"
+    ID_EDIT_REPEAT          "Repeat the last action\nRepeat"
+    ID_EDIT_REPLACE         "Replace specific text with different text\nReplace"
+    ID_EDIT_SELECT_ALL      "Select the entire document\nSelect All"
+    ID_EDIT_UNDO            "Undo the last action\nUndo"
+    ID_EDIT_REDO            "Redo the previously undone action\nRedo"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_VIEW_TOOLBAR         "Show or hide the toolbar\nToggle ToolBar"
+    ID_VIEW_STATUS_BAR      "Show or hide the status bar\nToggle StatusBar"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    AFX_IDS_SCSIZE          "Change the window size"
+    AFX_IDS_SCMOVE          "Change the window position"
+    AFX_IDS_SCMINIMIZE      "Reduce the window to an icon"
+    AFX_IDS_SCMAXIMIZE      "Enlarge the window to full size"
+    AFX_IDS_SCNEXTWINDOW    "Switch to the next document window"
+    AFX_IDS_SCPREVWINDOW    "Switch to the previous document window"
+    AFX_IDS_SCCLOSE         "Close the active window and prompts to save the documents"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    AFX_IDS_SCRESTORE       "Restore the window to normal size"
+    AFX_IDS_SCTASKLIST      "Activate Task List"
+    AFX_IDS_MDICHILD        "Activate this window"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_ROTATE_WORLD         "Rotate World\nRotate World"
+    ID_PAN_MODE             "Pan\nPan"
+    ID_SELECT_MODE          "Select\nSelect"
+    ID_ROTATE_SELECTED      "Rotate Selected\nRotate Selected"
+    ID_PAINT_MODE           "Paint Map\nPaint Map"
+    ID_EDIT_TERRAIN         "Edit Terrain\nEdit Terrain"
+    ID_FILE_SAVECURRENTTERRAIN "Save Current Terrain\nSave Terrain"
+    ID_FILE_SAVETEXTURES    "Save Textures\nSave Textures"
+    ID_VIEW_FOG             "Fog\nFog"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_TOOLS_FILL           "Fill\nFill"
+    ID_TOOLS_ADDFILE        "Add File\nAdd File"
+    ID_TOOLS_REMOVEFILE     "Remove File\nRemove File"
+END
+
+#endif    // English (U.S.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+/////////////////////////////////////////////////////////////////////////////
+// English (Canada) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENC)
+#ifdef _WIN32
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+#pragma code_page(1252)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#define _AFX_NO_SPLITTER_RESOURCES\r\n"
+    "#define _AFX_NO_OLE_RESOURCES\r\n"
+    "#define _AFX_NO_TRACKER_RESOURCES\r\n"
+    "#define _AFX_NO_PROPERTY_RESOURCES\r\n"
+    "\r\n"
+    "#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)\r\n"
+    "#ifdef _WIN32\r\n"
+    "LANGUAGE 9, 1\r\n"
+    "#pragma code_page(1252)\r\n"
+    "#endif //_WIN32\r\n"
+    "#include ""res\\TerraEd.rc2""  // non-Microsoft Visual C++ edited resources\r\n"
+    "#include ""afxres.rc""         // Standard components\r\n"
+    "#endif\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_EDIT_ICONS          BITMAP  DISCARDABLE     "res\\bmp00001.bmp"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Menu
+//
+
+IDR_OBJ_POPUP MENU DISCARDABLE 
+BEGIN
+    POPUP "Level"
+    BEGIN
+        MENUITEM "Active",                      ID_LEVEL_ACTIVE
+        MENUITEM SEPARATOR
+        MENUITEM "Edit",                        ID_EDIT
+        POPUP "New"
+        BEGIN
+            MENUITEM "Texture",                     ID_LEVEL_ADD_TEXTURE
+            MENUITEM "Sprite",                      ID_LEVEL_ADD_SPRITE
+            MENUITEM "Object",                      ID_LEVEL_ADD_OBJECT
+            MENUITEM "Event",                       ID_LEVEL_ADD_EVENT
+        END
+        MENUITEM SEPARATOR
+        MENUITEM "Delete",                      ID_DELETE
+    END
+    POPUP "Texture"
+    BEGIN
+        MENUITEM "Edit",                        ID_EDIT
+        MENUITEM SEPARATOR
+        MENUITEM "Delete",                      ID_DELETE
+    END
+    POPUP "Sprite"
+    BEGIN
+        MENUITEM "Edit",                        ID_EDIT
+        MENUITEM "Select and View",             ID_SPRITE_VIEW
+        MENUITEM SEPARATOR
+        MENUITEM "Delete",                      ID_DELETE
+    END
+    POPUP "Object"
+    BEGIN
+        MENUITEM "Edit",                        ID_EDIT
+        MENUITEM "Select and View",             ID_SPRITE_VIEW
+        MENUITEM SEPARATOR
+        MENUITEM "Delete",                      ID_DELETE
+    END
+    POPUP "Event"
+    BEGIN
+        MENUITEM "Display",                     ID_EVENT_DISPLAY
+        MENUITEM "Edit",                        ID_EDIT
+        POPUP "New"
+        BEGIN
+            MENUITEM "Create Object",               ID_EVENT_ADD_CREATEOBJECT
+
+            MENUITEM "Create Sprite",               ID_EVENT_ADD_CREATESPRITE
+
+            MENUITEM "Change Sprite",               ID_EVENT_ADD_CHANGESPRITE
+
+        END
+        MENUITEM SEPARATOR
+        MENUITEM "Delete",                      ID_DELETE
+    END
+    POPUP "Other"
+    BEGIN
+        MENUITEM "Edit",                        ID_EDIT
+        MENUITEM SEPARATOR
+        MENUITEM "Delete",                      ID_DELETE
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_EDIT_LEVEL DIALOG DISCARDABLE  0, 0, 291, 241
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Edit Level"
+FONT 8, "MS Sans Serif"
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,234,7,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,234,24,50,14
+    EDITTEXT        IDC_NAME,54,7,146,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_DISCRIPTION,54,23,146,48,ES_MULTILINE | 
+                    ES_AUTOHSCROLL | WS_VSCROLL
+    EDITTEXT        IDC_HIGHTMAP,54,75,133,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_T_SKY,54,97,133,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_T_GROUND,54,113,133,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_T_WATER1,54,129,133,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_T_WATER2,54,145,133,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_BG_COLOUR,88,170,74,14,ES_AUTOHSCROLL | ES_READONLY | 
+                    ES_NUMBER
+    CONTROL         "Colour",IDC_COLOUR,"Button",BS_OWNERDRAW | WS_TABSTOP,
+                    164,169,26,14
+    EDITTEXT        IDC_FOG_START,32,197,40,14,ES_AUTOHSCROLL
+    CONTROL         "Spin5",IDC_SPIN5,"msctls_updown32",UDS_SETBUDDYINT | 
+                    UDS_ALIGNRIGHT | UDS_AUTOBUDDY | UDS_ARROWKEYS,75,196,10,
+                    14
+    EDITTEXT        IDC_FOG_END,32,213,40,14,ES_AUTOHSCROLL
+    CONTROL         "Spin5",IDC_SPIN6,"msctls_updown32",UDS_SETBUDDYINT | 
+                    UDS_ALIGNRIGHT | UDS_AUTOBUDDY | UDS_ARROWKEYS,73,213,11,
+                    14
+    EDITTEXT        IDC_WATER_LEVEL,133,190,40,14,ES_AUTOHSCROLL
+    CONTROL         "Spin5",IDC_SPIN7,"msctls_updown32",UDS_SETBUDDYINT | 
+                    UDS_ALIGNRIGHT | UDS_AUTOBUDDY | UDS_ARROWKEYS,175,187,
+                    11,14
+    EDITTEXT        IDC_MAP_HIGHT,133,206,40,14,ES_AUTOHSCROLL
+    CONTROL         "Spin5",IDC_SPIN8,"msctls_updown32",UDS_SETBUDDYINT | 
+                    UDS_ALIGNRIGHT | UDS_AUTOBUDDY | UDS_ARROWKEYS,174,207,
+                    11,14
+    LTEXT           "Name",IDC_STATIC,31,9,20,8
+    LTEXT           "Discription",IDC_STATIC,17,25,34,8
+    LTEXT           "Hight Map",IDC_STATIC,17,77,34,8
+    GROUPBOX        "Textures",IDC_STATIC,7,89,198,76
+    LTEXT           "Sky",IDC_STATIC,38,100,13,8
+    LTEXT           "Ground",IDC_STATIC,27,116,24,8
+    LTEXT           "Water 1",IDC_STATIC,25,132,26,8
+    LTEXT           "Water 2",IDC_STATIC,25,148,26,8
+    CONTROL         "Sky Box",IDC_SHOW_SKY_BOX,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,198,190,42,10
+    CONTROL         "Water",IDC_SHOW_WATER,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,198,204,35,10
+    LTEXT           "Background/Fog Colour",IDC_STATIC,7,172,77,8
+    GROUPBOX        "Fog",IDC_STATIC,7,185,80,49
+    LTEXT           "Start",IDC_STATIC,13,199,16,8
+    LTEXT           "End",IDC_STATIC,15,215,14,8
+    LTEXT           "Water Level",IDC_STATIC,89,192,40,8
+    LTEXT           "Map Hight",IDC_STATIC,95,208,34,8
+    GROUPBOX        "Start Pos",IDC_STATIC,209,105,75,59
+    EDITTEXT        IDC_POS_X,233,116,40,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_POS_Y,233,132,40,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_POS_Z,233,146,40,14,ES_AUTOHSCROLL
+    LTEXT           "X",IDC_STATIC,221,118,8,8
+    LTEXT           "Y",IDC_STATIC,221,134,8,8
+    LTEXT           "Z",IDC_STATIC,221,150,8,8
+    PUSHBUTTON      "...",IDC_HM_FILE,190,75,12,14
+    PUSHBUTTON      "...",IDC_SKY_FILE,190,97,12,14
+    PUSHBUTTON      "...",IDC_GROUND_FILE,190,113,12,14
+    PUSHBUTTON      "...",IDC_WATER1_FILE,190,129,12,14
+    PUSHBUTTON      "...",IDC_WATER2_FILE,190,145,12,14
+    EDITTEXT        IDC_MAP_SCALE,133,222,40,14,ES_AUTOHSCROLL
+    LTEXT           "Map Scale",IDC_STATIC,95,224,35,8
+    GROUPBOX        "Sun Pos",IDC_STATIC,209,44,75,59
+    EDITTEXT        IDC_SUN_POS_X,233,55,40,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_SUN_POS_Y,233,71,40,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_SUN_POS_Z,233,85,40,14,ES_AUTOHSCROLL
+    LTEXT           "X",IDC_STATIC,221,57,8,8
+    LTEXT           "Y",IDC_STATIC,221,73,8,8
+    LTEXT           "Z",IDC_STATIC,221,89,8,8
+END
+
+IDD_EDIT_TEXTURE DIALOG DISCARDABLE  0, 0, 218, 142
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Edit Texture"
+FONT 8, "MS Sans Serif"
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,161,7,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,161,24,50,14
+    CONTROL         "Base Texture",IDC_BASE_TEXTURE,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,7,13,58,10
+    LTEXT           "File",IDC_STATIC,19,45,12,8
+    EDITTEXT        IDC_TC_FILE,42,42,89,14,ES_AUTOHSCROLL
+    LTEXT           "Scale",IDC_STATIC,19,60,19,8
+    EDITTEXT        IDC_TC_SCALE,42,57,40,14,ES_AUTOHSCROLL
+    LTEXT           "File",IDC_STATIC,19,104,12,8
+    EDITTEXT        IDC_AL_FILE,42,101,89,14,ES_AUTOHSCROLL
+    LTEXT           "Scale",IDC_STATIC,19,120,19,8
+    EDITTEXT        IDC_AL_SCALE,42,117,40,14,ES_AUTOHSCROLL
+    GROUPBOX        "Terrain Color",IDC_STATIC,7,29,148,51
+    GROUPBOX        "Terrain Mask/Lighting",IDC_STATIC,7,84,204,51
+    PUSHBUTTON      "...",IDC_TC_FILE_BUT,134,42,12,14
+    PUSHBUTTON      "...",IDC_AL_FILE_BUT,134,101,12,14
+    PUSHBUTTON      "Generate Lighting",IDC_GENERATE_LIGHT,147,100,62,14
+END
+
+IDD_EDIT_EVENT DIALOG DISCARDABLE  0, 0, 274, 188
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Edit Event"
+FONT 8, "MS Sans Serif"
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,217,7,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,217,24,50,14
+    LTEXT           "Timer",IDC_STATIC,7,61,18,8
+    EDITTEXT        IDC_TIMER,64,58,40,14,ES_AUTOHSCROLL
+    LTEXT           "Seconds",IDC_STATIC,126,61,29,8
+    LTEXT           "Message",IDC_STATIC,15,159,30,8
+    EDITTEXT        IDC_MESSAGE,72,156,184,14,ES_AUTOHSCROLL
+    CONTROL         "Active",IDC_ACTIVE,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,7,43,36,10
+    LTEXT           "Name",IDC_STATIC,7,10,20,8
+    EDITTEXT        IDC_NAME,64,7,131,14,ES_AUTOHSCROLL
+    LTEXT           "Type",IDC_STATIC,7,29,17,8
+    COMBOBOX        IDC_TYPE,64,26,118,72,CBS_DROPDOWNLIST | WS_VSCROLL | 
+                    WS_TABSTOP
+    LTEXT           "Object Name",IDC_STATIC,7,80,42,8
+    LTEXT           "Hit By",IDC_STATIC,7,97,20,8
+    LTEXT           "Activate Event",IDC_STATIC,15,142,48,8
+    COMBOBOX        IDC_OBJ_NAME,64,77,118,102,CBS_DROPDOWN | WS_VSCROLL | 
+                    WS_TABSTOP
+    COMBOBOX        IDC_RESP_NAME,64,94,118,102,CBS_DROPDOWN | WS_VSCROLL | 
+                    WS_TABSTOP
+    COMBOBOX        IDC_ACTIVATE_EVENT,72,139,118,102,CBS_DROPDOWN | 
+                    WS_VSCROLL | WS_TABSTOP
+    GROUPBOX        "Action",IDC_STATIC,7,110,260,71
+    LTEXT           "Game State",IDC_STATIC,15,126,38,8
+    COMBOBOX        IDC_GAME_STATE,72,122,118,72,CBS_DROPDOWNLIST | 
+                    WS_VSCROLL | WS_TABSTOP
+END
+
+IDD_EDIT_SPRITE DIALOG DISCARDABLE  0, 0, 186, 185
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Edit Sprite"
+FONT 8, "MS Sans Serif"
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,129,7,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,129,24,50,14
+    COMBOBOX        IDC_TYPE,33,41,82,115,CBS_DROPDOWNLIST | WS_VSCROLL | 
+                    WS_TABSTOP
+    LTEXT           "Type",IDC_STATIC,7,44,17,8
+    GROUPBOX        "Postion",IDC_STATIC,7,71,75,59
+    EDITTEXT        IDC_POS_X,25,81,40,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_POS_Y,25,96,40,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_POS_Z,25,111,40,14,ES_AUTOHSCROLL
+    LTEXT           "X",IDC_STATIC,13,85,8,8
+    LTEXT           "Y",IDC_STATIC,13,99,8,8
+    LTEXT           "Z",IDC_STATIC,13,114,8,8
+    LTEXT           "Name",IDC_STATIC,7,9,20,8
+    EDITTEXT        IDC_NAME,33,7,94,14,ES_AUTOHSCROLL
+    LTEXT           "Team",IDC_STATIC,7,26,19,8
+    EDITTEXT        IDC_TEAM,33,24,40,14,ES_AUTOHSCROLL
+    LTEXT           "Goal Name",IDC_STATIC,13,143,36,8
+    GROUPBOX        "AI",IDC_STATIC,7,131,172,46
+    COMBOBOX        IDC_GOAL,54,143,118,102,CBS_DROPDOWN | WS_VSCROLL | 
+                    WS_TABSTOP
+    LTEXT           "AI Type",IDC_STATIC,13,158,26,8
+    COMBOBOX        IDC_AI,54,158,45,89,CBS_DROPDOWNLIST | WS_VSCROLL | 
+                    WS_TABSTOP
+    COMBOBOX        IDC_TEXTURE,33,56,82,115,CBS_DROPDOWNLIST | WS_VSCROLL | 
+                    WS_TABSTOP
+    LTEXT           "Texture",IDC_STATIC,7,59,25,8
+END
+
+IDD_EDIT_OBJECT DIALOG DISCARDABLE  0, 0, 186, 126
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Edit Object"
+FONT 8, "MS Sans Serif"
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,129,7,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,129,24,50,14
+    COMBOBOX        IDC_TYPE,33,23,82,115,CBS_DROPDOWNLIST | WS_VSCROLL | 
+                    WS_TABSTOP
+    LTEXT           "Type",IDC_STATIC,7,26,17,8
+    GROUPBOX        "Postion",IDC_STATIC,7,56,75,63
+    EDITTEXT        IDC_POS_X,25,66,40,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_POS_Y,25,81,40,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_POS_Z,25,96,40,14,ES_AUTOHSCROLL
+    LTEXT           "X",IDC_STATIC,13,69,8,8
+    LTEXT           "Y",IDC_STATIC,13,84,8,8
+    LTEXT           "Z",IDC_STATIC,13,99,8,8
+    LTEXT           "Name",IDC_STATIC,7,9,20,8
+    EDITTEXT        IDC_NAME,33,7,94,14,ES_AUTOHSCROLL
+    CONTROL         "Visable",IDC_VISABLE,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,7,41,39,10
+END
+
+IDD_EDIT_OBJECT_DATA DIALOG DISCARDABLE  0, 0, 185, 236
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Edit Object Data"
+FONT 8, "MS Sans Serif"
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,128,7,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,128,24,50,14
+    LTEXT           "Name",IDC_STATIC,7,17,20,8
+    EDITTEXT        IDC_NAME,31,14,92,14,ES_AUTOHSCROLL
+    LTEXT           "File",IDC_STATIC,7,36,12,8
+    EDITTEXT        IDC_FILE,31,33,79,14,ES_AUTOHSCROLL
+    CONTROL         "Shadow",IDC_SHADOW,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,32,87,42,10
+    COMBOBOX        IDC_TYPE,31,52,68,93,CBS_DROPDOWNLIST | WS_VSCROLL | 
+                    WS_TABSTOP
+    LTEXT           "Type",IDC_STATIC,7,55,17,8
+    LTEXT           "Scale",IDC_STATIC,7,71,19,8
+    EDITTEXT        IDC_SCALE,32,69,40,14,ES_AUTOHSCROLL
+    LTEXT           "X",IDC_STATIC,85,79,8,8
+    EDITTEXT        IDC_X_SIZE,95,77,60,14,ES_AUTOHSCROLL
+    LTEXT           "Y",IDC_STATIC,85,95,8,8
+    EDITTEXT        IDC_Y_SIZE,95,92,60,14,ES_AUTOHSCROLL
+    GROUPBOX        "Size",IDC_STATIC,79,66,81,44
+    GROUPBOX        "Power Up",IDC_STATIC,7,108,139,121
+    LTEXT           "Type",IDC_STATIC,14,125,17,8
+    COMBOBOX        IDC_PU_TYPE,43,122,97,93,CBS_DROPDOWNLIST | WS_VSCROLL | 
+                    WS_TABSTOP
+    LTEXT           "Duration",IDC_STATIC,14,140,28,8
+    EDITTEXT        IDC_PU_DURATION,44,137,40,14,ES_AUTOHSCROLL
+    GROUPBOX        "Stats",IDC_STATIC,13,157,104,69
+    EDITTEXT        IDC_STATS_WP,71,166,40,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_STATS_H,71,180,40,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_STATS_S,71,195,40,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_STATS_MS,71,209,40,14,ES_AUTOHSCROLL
+    LTEXT           "Weapon Power",IDC_STATIC,19,168,50,8
+    LTEXT           "Health",IDC_STATIC,19,182,22,8
+    LTEXT           "Shields",IDC_STATIC,19,197,24,8
+    LTEXT           "Max Speed",IDC_STATIC,19,211,37,8
+    PUSHBUTTON      "...",IDC_FILE_BUT,111,33,12,14
+END
+
+IDD_EDIT_SPRITE_DATA DIALOG DISCARDABLE  0, 0, 251, 263
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Edit Sprite Data"
+FONT 8, "MS Sans Serif"
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,194,7,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,194,24,50,14
+    LTEXT           "Name",IDC_STATIC,7,10,20,8
+    EDITTEXT        IDC_NAME,31,7,92,14,ES_AUTOHSCROLL
+    LTEXT           "File",IDC_STATIC,7,25,12,8
+    EDITTEXT        IDC_FILE,31,22,79,14,ES_AUTOHSCROLL
+    PUSHBUTTON      "...",IDC_FILE_BUT,111,22,12,14
+    LTEXT           "Scale",IDC_STATIC,7,40,19,8
+    EDITTEXT        IDC_SCALE,32,38,40,14,ES_AUTOHSCROLL
+    LTEXT           "Z",IDC_STATIC,120,50,8,8
+    EDITTEXT        IDC_ROT_Z,132,48,40,14,ES_AUTOHSCROLL
+    LTEXT           "Y",IDC_STATIC,120,66,8,8
+    EDITTEXT        IDC_ROT_Y,132,64,40,14,ES_AUTOHSCROLL
+    LTEXT           "Min",IDC_STATIC,12,65,12,8
+    EDITTEXT        IDC_MIN_SPEED,37,63,40,14,ES_AUTOHSCROLL
+    LTEXT           "Max",IDC_STATIC,12,81,14,8
+    EDITTEXT        IDC_MAX_SPEED,37,79,40,14,ES_AUTOHSCROLL
+    LTEXT           "Acceleration",IDC_STATIC,12,111,40,8
+    EDITTEXT        IDC_ACCEL,59,110,40,14,ES_AUTOHSCROLL
+    LTEXT           "Turning Rate",IDC_STATIC,12,127,42,8
+    EDITTEXT        IDC_TURN,59,126,40,14,ES_AUTOHSCROLL
+    LTEXT           "Drag",IDC_STATIC,12,143,16,8
+    EDITTEXT        IDC_DRAG,59,140,40,14,ES_AUTOHSCROLL
+    LTEXT           "Min",IDC_STATIC,12,223,12,8
+    EDITTEXT        IDC_MIN_HIGHT,37,221,40,14,ES_AUTOHSCROLL
+    LTEXT           "Max",IDC_STATIC,12,238,14,8
+    EDITTEXT        IDC_MAX_HIGHT,37,235,40,14,ES_AUTOHSCROLL
+    COMBOBOX        IDC_WEAPON_TYPE,145,185,82,115,CBS_DROPDOWNLIST | 
+                    WS_VSCROLL | WS_TABSTOP
+    LTEXT           "Weapon",IDC_STATIC,113,187,28,8
+    CONTROL         "Restrict Rotation",IDC_REST_ROT,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,116,80,69,10
+    CONTROL         "Building",IDC_BUILDING,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,113,94,41,10
+    CONTROL         "User Selectable",IDC_USER,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,113,107,66,10
+    GROUPBOX        "Mesh Rotation",IDC_STATIC,113,39,74,54
+    GROUPBOX        "Speed",IDC_STATIC,7,53,79,46
+    GROUPBOX        "Performace",IDC_STATIC,7,101,99,59
+    LTEXT           "Shields",IDC_STATIC,12,169,24,8
+    EDITTEXT        IDC_SHIELDS,59,167,40,14,ES_AUTOHSCROLL
+    LTEXT           "Health",IDC_STATIC,12,183,22,8
+    EDITTEXT        IDC_HEALTH,59,181,40,14,ES_AUTOHSCROLL
+    LTEXT           "Regeneration",IDC_STATIC,12,197,44,8
+    EDITTEXT        IDC_REGEN,59,195,40,14,ES_AUTOHSCROLL
+    GROUPBOX        "Altitude",IDC_STATIC,7,213,75,43
+    GROUPBOX        "Health",IDC_STATIC,7,160,99,53
+    LISTBOX         IDC_TEXTURES,115,131,70,46,LBS_NOINTEGRALHEIGHT | 
+                    WS_VSCROLL | WS_TABSTOP
+    GROUPBOX        "Textures",IDC_STATIC,112,120,132,62
+    PUSHBUTTON      "Add",IDC_ADD_TEXTURE,187,131,50,14
+    PUSHBUTTON      "Remove",IDC_REMOVE_TEXTURE,187,147,50,14
+END
+
+IDD_RANDOM_OBJ DIALOG DISCARDABLE  0, 0, 171, 254
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Add Random Objects"
+FONT 8, "MS Sans Serif"
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,114,7,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,114,24,50,14
+    LTEXT           "Number of Items",IDC_STATIC,13,17,52,8
+    EDITTEXT        IDC_NUMB_ITEMS,69,14,40,14,ES_AUTOHSCROLL
+    CONTROL         "Spin1",IDC_SPIN1,"msctls_updown32",UDS_SETBUDDYINT | 
+                    UDS_ALIGNRIGHT | UDS_AUTOBUDDY | UDS_ARROWKEYS,115,14,11,
+                    14
+    LTEXT           "Min",IDC_STATIC,16,42,12,8
+    GROUPBOX        "Hight",IDC_STATIC,7,31,79,44
+    EDITTEXT        IDC_MIN_HIGHT,33,40,40,14,ES_AUTOHSCROLL
+    CONTROL         "Spin2",IDC_SPIN2,"msctls_updown32",UDS_SETBUDDYINT | 
+                    UDS_ALIGNRIGHT | UDS_AUTOBUDDY | UDS_ARROWKEYS,80,40,11,
+                    14
+    LTEXT           "Max",IDC_STATIC,16,57,14,8
+    EDITTEXT        IDC_MAX_HIGHT,33,55,40,14,ES_AUTOHSCROLL
+    CONTROL         "Spin2",IDC_SPIN3,"msctls_updown32",UDS_SETBUDDYINT | 
+                    UDS_ALIGNRIGHT | UDS_AUTOBUDDY | UDS_ARROWKEYS,80,55,11,
+                    14
+    LISTBOX         IDC_OBJECTS,19,87,76,80,LBS_NOINTEGRALHEIGHT | 
+                    WS_VSCROLL | WS_TABSTOP
+    PUSHBUTTON      "Add",IDC_ADD,99,90,50,14
+    PUSHBUTTON      "Remove",IDC_REMOVE,99,108,50,14
+    GROUPBOX        "Objects",IDC_STATIC,7,76,150,97
+    CONTROL         "Use Point",IDC_USE_POINT,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,7,177,47,10
+    GROUPBOX        "Point",IDC_STATIC,7,203,71,44
+    LTEXT           "X",IDC_STATIC,14,215,8,8
+    LTEXT           "Y",IDC_STATIC,13,231,8,8
+    EDITTEXT        IDC_X,28,213,40,14,ES_AUTOHSCROLL | WS_DISABLED
+    EDITTEXT        IDC_Y,28,229,40,14,ES_AUTOHSCROLL | WS_DISABLED
+    LTEXT           "Radius",IDC_STATIC,7,192,23,8
+    EDITTEXT        IDC_RAD,32,190,40,14,ES_AUTOHSCROLL | WS_DISABLED
+END
+
+IDD_SELECT_OBJ DIALOG DISCARDABLE  0, 0, 186, 46
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Select Object"
+FONT 8, "MS Sans Serif"
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,129,7,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,129,24,50,14
+    COMBOBOX        IDC_OBJECTS,7,15,114,111,CBS_DROPDOWNLIST | WS_VSCROLL | 
+                    WS_TABSTOP
+END
+
+IDD_FILL_DLG DIALOG DISCARDABLE  0, 0, 213, 78
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Fill"
+FONT 8, "MS Sans Serif"
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,156,7,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,156,24,50,14
+    COMBOBOX        IDC_TEXTURE,44,7,106,88,CBS_DROPDOWNLIST | WS_VSCROLL | 
+                    WS_TABSTOP
+    LTEXT           "Texture",IDC_STATIC,7,8,25,8
+    LTEXT           "Min Hight",IDC_STATIC,7,23,31,8
+    LTEXT           "Max Hight",IDC_STATIC,7,40,33,8
+    EDITTEXT        IDC_MIN_HIGHT,44,22,40,14,ES_AUTOHSCROLL
+    CONTROL         "Spin1",IDC_SPIN1,"msctls_updown32",UDS_SETBUDDYINT | 
+                    UDS_ALIGNRIGHT | UDS_AUTOBUDDY | UDS_ARROWKEYS,113,28,10,
+                    14
+    EDITTEXT        IDC_MAX_HIGHT,44,39,40,14,ES_AUTOHSCROLL
+    CONTROL         "Spin2",IDC_SPIN2,"msctls_updown32",UDS_SETBUDDYINT | 
+                    UDS_ALIGNRIGHT | UDS_AUTOBUDDY | UDS_ARROWKEYS,129,39,10,
+                    14
+    EDITTEXT        IDC_PERCENT,44,56,40,14,ES_AUTOHSCROLL
+    CONTROL         "Spin2",IDC_SPIN3,"msctls_updown32",UDS_SETBUDDYINT | 
+                    UDS_ALIGNRIGHT | UDS_AUTOBUDDY | UDS_ARROWKEYS,95,52,11,
+                    14
+    LTEXT           "%",IDC_STATIC,7,57,8,8
+END
+
+IDD_DELETE_FILES DIALOG DISCARDABLE  0, 0, 265, 113
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Delete Files"
+FONT 8, "MS Sans Serif"
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,208,7,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,208,24,50,14
+    CONTROL         "List1",IDC_LIST1,"SysListView32",LVS_REPORT | 
+                    LVS_SHOWSELALWAYS | LVS_SORTASCENDING | LVS_NOSORTHEADER | 
+                    WS_BORDER | WS_TABSTOP,7,7,196,99
+END
+
+IDD_ADD_TEXTURE DIALOG DISCARDABLE  0, 0, 248, 46
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Add Texture"
+FONT 8, "MS Sans Serif"
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,191,7,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,191,24,50,14
+    EDITTEXT        IDC_TEXTURE_FILE,21,18,141,14,ES_AUTOHSCROLL
+    LTEXT           "File",IDC_STATIC,7,20,12,8
+    PUSHBUTTON      "...",IDC_TC_FILE_BUT,164,18,12,14
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO DISCARDABLE 
+BEGIN
+    IDD_EDIT_LEVEL, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 284
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 234
+    END
+
+    IDD_EDIT_TEXTURE, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 211
+        VERTGUIDE, 19
+        VERTGUIDE, 42
+        VERTGUIDE, 155
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 135
+    END
+
+    IDD_EDIT_EVENT, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 267
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 181
+    END
+
+    IDD_EDIT_SPRITE, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 179
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 178
+    END
+
+    IDD_EDIT_OBJECT, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 179
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 119
+    END
+
+    IDD_EDIT_OBJECT_DATA, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 178
+        VERTGUIDE, 14
+        VERTGUIDE, 32
+        VERTGUIDE, 44
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 229
+    END
+
+    IDD_EDIT_SPRITE_DATA, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 244
+        VERTGUIDE, 12
+        VERTGUIDE, 106
+        VERTGUIDE, 113
+        VERTGUIDE, 185
+        VERTGUIDE, 187
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 256
+    END
+
+    IDD_RANDOM_OBJ, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 164
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 247
+    END
+
+    IDD_SELECT_OBJ, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 179
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 39
+    END
+
+    IDD_FILL_DLG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 206
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 71
+    END
+
+    IDD_DELETE_FILES, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 258
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 106
+    END
+
+    IDD_ADD_TEXTURE, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 241
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 39
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog Info
+//
+
+IDD_EDIT_SPRITE DLGINIT
+BEGIN
+    IDC_AI, 0x403, 7, 0
+0x6f4e, 0x6d72, 0x6c61, "\000" 
+    IDC_AI, 0x403, 5, 0
+0x6147, 0x6472, "\000" 
+    IDC_AI, 0x403, 5, 0
+0x6f47, 0x6f54, "\000" 
+    0
+END
+
+IDD_EDIT_OBJECT_DATA DLGINIT
+BEGIN
+    IDC_TYPE, 0x403, 5, 0
+0x7254, 0x6565, "\000" 
+    IDC_TYPE, 0x403, 5, 0
+0x7542, 0x6873, "\000" 
+    IDC_TYPE, 0x403, 5, 0
+0x654d, 0x6873, "\000" 
+    IDC_TYPE, 0x403, 9, 0
+0x6f50, 0x6577, 0x2072, 0x7055, "\000" 
+    IDC_TYPE, 0x403, 9, 0
+0x6157, 0x7079, 0x696f, 0x746e, "\000" 
+    IDC_PU_TYPE, 0x403, 16, 0
+0x4e49, 0x5556, 0x4e4c, 0x5245, 0x4241, 0x4c49, 0x5449, 0x0059, 
+    IDC_PU_TYPE, 0x403, 13, 0
+0x4e49, 0x4956, 0x4953, 0x4942, 0x494c, 0x5954, "\000" 
+    IDC_PU_TYPE, 0x403, 6, 0
+0x5453, 0x5441, 0x0053, 
+    0
+END
+
+IDD_EDIT_EVENT DLGINIT
+BEGIN
+    IDC_TYPE, 0x403, 17, 0
+0x7053, 0x6972, 0x6574, 0x4420, 0x7365, 0x7274, 0x796f, 0x6465, "\000" 
+    IDC_TYPE, 0x403, 13, 0
+0x6948, 0x2074, 0x6157, 0x7079, 0x696f, 0x746e, "\000" 
+    IDC_TYPE, 0x403, 8, 0
+0x6954, 0x656d, 0x756f, 0x0074, 
+    IDC_TYPE, 0x403, 22, 0
+0x6c41, 0x206c, 0x6e45, 0x6d65, 0x6569, 0x2073, 0x6544, 0x7473, 0x6f72, 
+0x6579, 0x0064, 
+    IDC_GAME_STATE, 0x403, 10, 0
+0x6f4e, 0x4320, 0x6168, 0x676e, 0x0065, 
+    IDC_GAME_STATE, 0x403, 5, 0
+0x6f4c, 0x6573, "\000" 
+    IDC_GAME_STATE, 0x403, 4, 0
+0x6957, 0x006e, 
+    0
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Cursor
+//
+
+IDC_CURSOR_ZOOM         CURSOR  DISCARDABLE     "OdZoom.cur"
+IDC_CURSOR_PAN_SEL      CURSOR  DISCARDABLE     "OdPan.cur"
+IDC_CURSOR_PAN          CURSOR  DISCARDABLE     "OdPanReady.cur"
+IDC_CURSOR_ROTATE       CURSOR  DISCARDABLE     "OdRotate.cur"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    CG_ID_VIEW_PAINTBAR     "Show or hide Paint Bar\nToggle Paint Bar"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_SPRITE_VIEW          "Select and View"
+END
+
+#endif    // English (Canada) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_SPLITTER_RESOURCES
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE 9, 1
+#pragma code_page(1252)
+#endif //_WIN32
+#include "res\TerraEd.rc2"  // non-Microsoft Visual C++ edited resources
+#include "afxres.rc"         // Standard components
+#endif
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

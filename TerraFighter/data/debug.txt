@@ -1,0 +1,152 @@
+D:\dev2\CommonDev\d3dfile.cpp(73): Creating  sf-05.x
+
+D:\dev2\CommonDev\d3dfile.cpp(73): Creating  sf-06.x
+
+D:\dev2\CommonDev\d3dfile.cpp(73): Creating  sf-08.x
+
+D:\dev2\CommonDev\d3dfile.cpp(73): Creating  sf-11.x
+
+D:\dev2\CommonDev\d3dfile.cpp(73): Creating  sf-03.x
+
+D:\dev2\CommonDev\d3dfile.cpp(73): Creating  sf-01.x
+
+D:\dev2\CommonDev\d3dfile.cpp(73): Creating  al-05.x
+
+D:\dev2\CommonDev\d3dfile.cpp(73): Creating  al-10.x
+
+D:\dev2\CommonDev\d3dfile.cpp(73): Creating  al-12.x
+
+D:\dev2\CommonDev\d3dfile.cpp(73): Creating  al-13.x
+
+D:\dev2\CommonDev\d3dfile.cpp(73): Creating  al-14.x
+
+D:\dev2\CommonDev\d3dfile.cpp(73): Creating  al-17.x
+
+D:\dev2\CommonDev\d3dfile.cpp(73): Creating  Bld-01.x
+
+D:\dev2\CommonDev\d3dfile.cpp(73): Creating  Bld-07.x
+
+D:\dev2\CommonDev\d3dfile.cpp(73): Creating  Bld-08.x
+
+D:\dev2\CommonDev\d3dfile.cpp(73): Creating  Bld-10.x
+
+D:\dev2\CommonDev\d3dfile.cpp(73): Creating  Gunt1.x
+
+D:\dev2\CommonDev\d3dfile.cpp(73): Creating  rock.x
+
+D:\dev2\CommonDev\d3dfile.cpp(73): Creating  rock2.x
+
+D:\dev2\CommonDev\d3dfile.cpp(73): Creating  fir_Tree.x
+
+D:\dev2\CommonDev\d3dfile.cpp(73): Creating  plant.x
+
+D:\dev2\CommonDev\d3dfile.cpp(73): Creating  Bld-02.x
+
+D:\dev2\CommonDev\d3dfile.cpp(73): Creating  Bld-03.x
+
+D:\dev2\CommonDev\d3dfile.cpp(73): Creating  Bld-04.x
+
+D:\dev2\CommonDev\d3dfile.cpp(73): Creating  Bld-05.x
+
+D:\dev2\CommonDev\d3dfile.cpp(73): Creating  Bld-06.x
+
+D:\dev2\CommonDev\d3dfile.cpp(73): Creating  Bld-09.x
+
+D:\dev2\CommonDev\d3dfile.cpp(73): Creating  Bld-11.x
+
+D:\dev2\CommonDev\d3dfile.cpp(73): Creating  Aspen_Tree.x
+
+D:\dev2\CommonDev\d3dfile.cpp(73): Creating  Dogwood_Tree.x
+
+D:\dev2\CommonDev\d3dfile.cpp(73): Creating  Oak_Tree.x
+
+D:\dev2\CommonDev\d3dfile.cpp(73): Creating  grass.x
+
+D:\dev2\CommonDev\d3dfile.cpp(73): Creating  Crate.X
+
+D:\dev2\CommonDev\d3dfile.cpp(73): Creating  RockTower.x
+
+D:\dev2\CommonDev\d3dfile.cpp(73): Creating  Crystal.X
+
+D:\dev2\CommonDev\d3dfile.cpp(90): Deleteing Crystal.X
+
+D:\dev2\CommonDev\d3dfile.cpp(73): Creating  Crystal.X
+
+D:\dev2\CommonDev\d3dfile.cpp(90): Deleteing Crystal.X
+
+D:\dev2\CommonDev\d3dfile.cpp(73): Creating  Crystal.X
+
+D:\dev2\CommonDev\d3dfile.cpp(90): Deleteing Crystal.X
+
+D:\dev2\CommonDev\d3dfile.cpp(73): Creating  Crystal.X
+
+D:\dev2\CommonDev\d3dfile.cpp(90): Deleteing sf-05.x
+
+D:\dev2\CommonDev\d3dfile.cpp(90): Deleteing sf-06.x
+
+D:\dev2\CommonDev\d3dfile.cpp(90): Deleteing sf-08.x
+
+D:\dev2\CommonDev\d3dfile.cpp(90): Deleteing sf-11.x
+
+D:\dev2\CommonDev\d3dfile.cpp(90): Deleteing sf-03.x
+
+D:\dev2\CommonDev\d3dfile.cpp(90): Deleteing sf-01.x
+
+D:\dev2\CommonDev\d3dfile.cpp(90): Deleteing al-05.x
+
+D:\dev2\CommonDev\d3dfile.cpp(90): Deleteing al-10.x
+
+D:\dev2\CommonDev\d3dfile.cpp(90): Deleteing al-12.x
+
+D:\dev2\CommonDev\d3dfile.cpp(90): Deleteing al-13.x
+
+D:\dev2\CommonDev\d3dfile.cpp(90): Deleteing al-14.x
+
+D:\dev2\CommonDev\d3dfile.cpp(90): Deleteing al-17.x
+
+D:\dev2\CommonDev\d3dfile.cpp(90): Deleteing Bld-01.x
+
+D:\dev2\CommonDev\d3dfile.cpp(90): Deleteing Bld-07.x
+
+D:\dev2\CommonDev\d3dfile.cpp(90): Deleteing Bld-08.x
+
+D:\dev2\CommonDev\d3dfile.cpp(90): Deleteing Bld-10.x
+
+D:\dev2\CommonDev\d3dfile.cpp(90): Deleteing Gunt1.x
+
+D:\dev2\CommonDev\d3dfile.cpp(90): Deleteing rock.x
+
+D:\dev2\CommonDev\d3dfile.cpp(90): Deleteing rock2.x
+
+D:\dev2\CommonDev\d3dfile.cpp(90): Deleteing fir_Tree.x
+
+D:\dev2\CommonDev\d3dfile.cpp(90): Deleteing plant.x
+
+D:\dev2\CommonDev\d3dfile.cpp(90): Deleteing Bld-02.x
+
+D:\dev2\CommonDev\d3dfile.cpp(90): Deleteing Bld-03.x
+
+D:\dev2\CommonDev\d3dfile.cpp(90): Deleteing Bld-04.x
+
+D:\dev2\CommonDev\d3dfile.cpp(90): Deleteing Bld-05.x
+
+D:\dev2\CommonDev\d3dfile.cpp(90): Deleteing Bld-06.x
+
+D:\dev2\CommonDev\d3dfile.cpp(90): Deleteing Bld-09.x
+
+D:\dev2\CommonDev\d3dfile.cpp(90): Deleteing Bld-11.x
+
+D:\dev2\CommonDev\d3dfile.cpp(90): Deleteing Aspen_Tree.x
+
+D:\dev2\CommonDev\d3dfile.cpp(90): Deleteing Dogwood_Tree.x
+
+D:\dev2\CommonDev\d3dfile.cpp(90): Deleteing Oak_Tree.x
+
+D:\dev2\CommonDev\d3dfile.cpp(90): Deleteing grass.x
+
+D:\dev2\CommonDev\d3dfile.cpp(90): Deleteing Crate.X
+
+D:\dev2\CommonDev\d3dfile.cpp(90): Deleteing RockTower.x
+
+D:\dev2\CommonDev\d3dfile.cpp(90): Deleteing Crystal.X
+

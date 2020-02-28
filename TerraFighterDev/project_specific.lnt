@@ -1,0 +1,11 @@
+// Project specific options.  Please check the file in when used. 
+lib-atl.lnt 
+lib-mfc.lnt
+-e129
+
+-esym(1073, ATL::CStrBufT*)
+-esym(40, IATLStringMgr)
+-esym(1039,ATL*)
+
+-e1735
+

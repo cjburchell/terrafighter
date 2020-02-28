@@ -1,0 +1,26 @@
+App Start
+d:\dev2\commondev\d3dfile.cpp(31): tiger.xApp Start
+d:\dev2\commondev\d3dfile.cpp(31): tiger.xApp Start
+d:\dev2\commondev\d3dfile.cpp(31): tiger.xApp Start
+d:\dev2\commondev\d3dfile.cpp(31): tiger.xApp Start
+d:\dev2\commondev\d3dfile.cpp(32): tiger.xd:\dev2\commondev\d3dfile.cpp(1179): pEnumObj->GetChild(i, &child)d:\dev2\commondev\d3dfile.cpp(1179): pEnumObj->GetChild(i, &child)App Start
+d:\dev2\commondev\d3dfile.cpp(32): tiger.xd:\dev2\commondev\d3dfile.cpp(1179): pEnumObj->GetChild(i, &child)d:\dev2\commondev\d3dfile.cpp(1179): pEnumObj->GetChild(i, &child)App Start
+d:\dev2\commondev\d3dfile.cpp(32): tiger.x
+d:\dev2\commondev\d3dfile.cpp(1179): pEnumObj->GetChild(i, &child)
+d:\dev2\commondev\d3dfile.cpp(1179): pEnumObj->GetChild(i, &child)
+App Start
+d:\dev2\commondev\d3dfile.cpp(32): tiger.x
+App Start
+d:\dev2\commondev\d3dfile.cpp(32): tiger.x
+App Start
+d:\dev2\commondev\d3dfile.cpp(32): tiger.x
+App Start
+d:\dev2\commondev\d3dfile.cpp(32): tiger.x
+App Start
+d:\dev2\commondev\d3dfile.cpp(32): tiger.x
+App Start
+d:\dev2\commondev\d3dfile.cpp(32): tiger.x
+App Start
+d:\dev2\commondev\d3dfile.cpp(32): tiger.x
+App Start
+d:\dev2\commondev\d3dfile.cpp(32): temp.x

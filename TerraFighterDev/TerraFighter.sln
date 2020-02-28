@@ -1,0 +1,47 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TerraEd", "..\TerraEd\TerraEd.vcproj", "{DEE37195-F6DE-4019-A233-A2EB94F74B57}"
+	ProjectSection(ProjectDependencies) = postProject
+		{09C365D1-BA89-4556-8346-A5F6757753BB} = {09C365D1-BA89-4556-8346-A5F6757753BB}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TerraFighter", "TerraFighter.vcproj", "{5B1E8574-FF2F-47F0-BD71-28EF56B29C56}"
+	ProjectSection(ProjectDependencies) = postProject
+		{DEE37195-F6DE-4019-A233-A2EB94F74B57} = {DEE37195-F6DE-4019-A233-A2EB94F74B57}
+		{09C365D1-BA89-4556-8346-A5F6757753BB} = {09C365D1-BA89-4556-8346-A5F6757753BB}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Zip", "..\zip\Zip.vcproj", "{09C365D1-BA89-4556-8346-A5F6757753BB}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+		Static Release = Static Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{DEE37195-F6DE-4019-A233-A2EB94F74B57}.Debug.ActiveCfg = Debug|Win32
+		{DEE37195-F6DE-4019-A233-A2EB94F74B57}.Debug.Build.0 = Debug|Win32
+		{DEE37195-F6DE-4019-A233-A2EB94F74B57}.Release.ActiveCfg = Release|Win32
+		{DEE37195-F6DE-4019-A233-A2EB94F74B57}.Release.Build.0 = Release|Win32
+		{DEE37195-F6DE-4019-A233-A2EB94F74B57}.Static Release.ActiveCfg = Release|Win32
+		{DEE37195-F6DE-4019-A233-A2EB94F74B57}.Static Release.Build.0 = Release|Win32
+		{5B1E8574-FF2F-47F0-BD71-28EF56B29C56}.Debug.ActiveCfg = Debug|Win32
+		{5B1E8574-FF2F-47F0-BD71-28EF56B29C56}.Debug.Build.0 = Debug|Win32
+		{5B1E8574-FF2F-47F0-BD71-28EF56B29C56}.Release.ActiveCfg = Release|Win32
+		{5B1E8574-FF2F-47F0-BD71-28EF56B29C56}.Release.Build.0 = Release|Win32
+		{5B1E8574-FF2F-47F0-BD71-28EF56B29C56}.Static Release.ActiveCfg = Release|Win32
+		{5B1E8574-FF2F-47F0-BD71-28EF56B29C56}.Static Release.Build.0 = Release|Win32
+		{09C365D1-BA89-4556-8346-A5F6757753BB}.Debug.ActiveCfg = Debug|Win32
+		{09C365D1-BA89-4556-8346-A5F6757753BB}.Debug.Build.0 = Debug|Win32
+		{09C365D1-BA89-4556-8346-A5F6757753BB}.Release.ActiveCfg = Release|Win32
+		{09C365D1-BA89-4556-8346-A5F6757753BB}.Release.Build.0 = Release|Win32
+		{09C365D1-BA89-4556-8346-A5F6757753BB}.Static Release.ActiveCfg = Static Release|Win32
+		{09C365D1-BA89-4556-8346-A5F6757753BB}.Static Release.Build.0 = Static Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

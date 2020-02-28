@@ -1,0 +1,24 @@
+<Weapons>
+   <Weapon RateOfFire="0.25" Name="Double Blaster">
+      <Beam Colour1="65280" Colour2="65280" Size="0.15" Speed="40" Damage="10.0" Sound="laserfire3.wav" Gravity="0" Seek="0" Port="0"/>
+      <Beam Colour1="65280" Colour2="65280" Size="0.15" Speed="40" Damage="10.0" Sound="laserfire3.wav" Gravity="0" Seek="0" Port="1"/>
+   </Weapon>
+   <Weapon RateOfFire="1" Name="Rockets">
+      <Beam Colour1="16777215" Colour2="16777215" Size="0.2" Speed="20" Damage="100.0" PosX="0" PosY="0" PosZ="0" Sound="SOUND49D.WAV" Gravity="0" Seek="1" Port="2"/>
+   </Weapon>
+   <Weapon RateOfFire="0.25" Name="Normal Blaster">
+      <Beam Colour1="16711935" Colour2="16711935" Size="0.15" Speed="40" Damage="15.0" PosX="0" PosY="0" PosZ="0" Sound="SOUND49D.WAV" Gravity="0" Seek="0" Port="2"/>
+   </Weapon>
+   <Weapon RateOfFire="0.50" Name="Slow Blaster">
+      <Beam Colour1="255" Colour2="255" Size="0.15" Speed="40" Damage="20.0" PosX="0" PosY="0" PosZ="0" Sound="SOUND49D.WAV" Gravity="0" Seek="0" Port="2"/>
+   </Weapon>
+   <Weapon RateOfFire="1.50" Name="Bomb Beam">
+      <Beam Colour1="16777215" Colour2="16777215" Size="0.30" Speed="5" Damage="100.0" PosX="0" PosY="0" PosZ="0" Sound="SOUND49D.WAV" Gravity="-9.8" Seek="0" Port="2"/>
+   </Weapon>
+   <Weapon RateOfFire="0.15" Name="Fast Beam">
+      <Beam Colour1="16711680" Colour2="16711680" Size="0.15" Speed="40" Damage="10.0" PosX="0" PosY="0" PosZ="0" Sound="SOUND49D.WAV" Gravity="0" Seek="0" Port="2"/>
+   </Weapon>
+   <Weapon RateOfFire="0.25" Name="Seeking Blaster">
+      <Beam Colour1="16777215" Colour2="16777215" Size="0.15" Speed="40" Damage="15.0" PosX="0" PosY="0" PosZ="0" Sound="SOUND49D.WAV" Gravity="0" Seek="1" Port="2"/>
+   </Weapon>
+</Weapons>
